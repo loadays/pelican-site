@@ -34,3 +34,5 @@ PAGE_DIR = ('pages/')
 ARTICLE_DIR = ('posts/')
 
 MENUITEMS = (('Home', './index.html'),)
+
+FILES_TO_COPY = (('CNAME' , 'CNAME'),)
