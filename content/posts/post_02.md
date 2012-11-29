@@ -1,12 +1,11 @@
-Date: 2012-11-08
-Title: Post number 2
+Date: 2012-11-30
+Title: LOAD2013 CFP 
 Tags: loadays
 Slug: Post number 2
 
+After a successful third edition of LOAD, the crew decided to organize a forth edition.
 
-This is a test post
+You are invited to submit a proposal to participate in the 2012 Linux Open Administration Days in Wilrijk, Belgium on March 31st - April 1st 2013.
 
-new line
+The Linux Open Administration Days is a conference focusing on Linux and Open Administration, we are trying to fill a gap for System Engineers and Administrators using Open Source technologies.
 
-blablacsdcsdcdscdscsd
-cdscdscsdcsdcsdcsdcsddddddddddddddddddddddddddddddddddddddddddd
