@@ -3,7 +3,7 @@
 
 AUTHOR = u"loadays"
 SITENAME = u"loadays"
-SITEURL = 'http://loadays.eu'
+SITEURL = 'http://loadays.org'
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 FEED_RSS = 'feed.xml'
