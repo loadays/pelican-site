@@ -25,7 +25,7 @@ THEME = 'loadays'
 
 PAGE_DIR = ('pages/')
 ARTICLE_DIR = ('posts/')
-
+CATEGORY_URL = ('category/{slug}.html')
 MENUITEMS = (('Home', 'http://loadays.org'),)
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
