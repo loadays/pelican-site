@@ -5,16 +5,17 @@ status: hidden
 ### How to submit your talk proposal?##
 There're 2 ways :
 
-* mail
-* send a Github Pull Request
+* __mail__
+* __send a Github Pull Request__
 
 #### Mail 
 Send your proposal to cfp@loadays.org with following info :
+
 * title of your talk
 * abstract
 * some info about yourself
 
 #### Github Pull request
-Fork the pelican-site repo at git@github.com:loadays/pelican-site.git and add your proposal to the content/proposals dir. Send us a Pull Request.
+Fork the pelican-site repo at [git@github.com:loadays/pelican-site.git](git@github.com:loadays/pelican-site.git) and add your proposal to the content/proposals dir. Send us a Pull Request.
 
 
