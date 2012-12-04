@@ -1,4 +1,4 @@
-title: testtalk
+title: talk about how to give testtalks
 status: hidden
 category: proposals
 
