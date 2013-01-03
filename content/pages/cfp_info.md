@@ -16,6 +16,6 @@ Send your proposal to cfp@loadays.org with following info :
 * some info about yourself
 
 #### Github Pull request
-Fork the pelican-site repo at [git@github.com:loadays/pelican-site.git](git@github.com:loadays/pelican-site.git) and add your proposal to the content/proposals dir. Send us a Pull Request.
+Fork the pelican-site repo at [https://github.com/loadays/pelican-site](https://github.com/loadays/pelican-site) and add your proposal to the content/proposals dir. Send us a Pull Request.
 
 
