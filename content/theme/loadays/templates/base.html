@@ -42,10 +42,12 @@
                 {% endfor %} no ctegory in navigation --> 
                 </ul></nav>
         </header><!-- /#banner -->
-        <div id="container">
+        
+	<div id="container">
         {% block content %}
-		</div>
+	</div>
         {% endblock %}
+ 	
         <section id="extras" class="body">
         {% if LINKS %}
                 <div class="blogroll">
@@ -73,6 +75,7 @@
                 </div><!-- /.social -->
         {% endif %}
         </section><!-- /#extras -->
+
 
         <footer id="contentinfo" class="body">
                 <address id="about" class="vcard body">

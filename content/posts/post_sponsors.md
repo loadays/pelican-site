@@ -7,8 +7,8 @@ For this edition we are again looking for sponsors to make this event happen. Th
 
 Levels of sponsorship :
 
-* Bronze (250€) : small logo on the website
-* Silver (500€) : logo on the website and mentioned on mailings to visitors and speakers  
-* Gold (750€ +) : Full visibility (logo on website, printed materials) and the ability to speak about your company for 5 minutes at the start of the conference
+* *Bronze (250€)* : small logo on the website
+* *Silver (500€)* : logo on the website and mentioned on mailings to visitors and speakers  
+* *Gold (750€ +)* : Full visibility (logo on website, printed materials) and the ability to speak about your company for 5 minutes at the start of the conference
 
-If your company wants to sponsor this event, send us your details, logo and sponosr level to info@loadays.org
+If your company wants to sponsor this event, send us your details, logo and sponsor level to info@loadays.org

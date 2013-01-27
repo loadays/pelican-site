@@ -37,6 +37,8 @@ body {
 	width: 200px;
 	margin: auto;
 	float: right;
+	clear: both;
+	margin-top: 1em;
 }
 
 #sponsors h2 {
@@ -239,10 +241,13 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 *****************/
 #featured {
 	background: #fff;
+	margin-top: 1em;
 	margin-bottom: 1em;
 	overflow: hidden;
 	padding: 20px;
-	width: 760px;
+	/*width: 760px;*/
+	width: 500px;
+	float: left;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
