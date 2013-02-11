@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u"loadays"
-SITENAME = u"loadays"
+AUTHOR = u"Loadays Crew"
+SITENAME = u"LOADays"
 SITEURL = 'http://loadays.org'
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Brussels'
 DEFAULT_LANG = 'en'
+
 FEED_RSS = 'feed.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 
@@ -21,7 +22,11 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 #ARTICLE_URL = '{slug}'
 #DEFAULT_CATEGORY = ''
 
-THEME = 'loadays'
+#THEME = 'loadays'
+THEME = 'content/theme/loadays'
+
+OUTPUT_PATH = "output/"
+DELETE_OUTPUT_DIRECTORY = True
 
 PAGE_DIR = ('pages/')
 ARTICLE_DIR = ('posts/')
@@ -29,4 +34,4 @@ CATEGORY_URL = ('category/{slug}.html')
 MENUITEMS = (('Home', 'http://loadays.org'),)
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
-FILES_TO_COPY = (('CNAME', 'CNAME'),)
+FILES_TO_COPY = (('content/CNAME', 'CNAME'),)
