@@ -26,7 +26,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 THEME = 'content/theme/loadays'
 
 OUTPUT_PATH = "output/"
-DELETE_OUTPUT_DIRECTORY = True
+#DELETE_OUTPUT_DIRECTORY = True
 
 PAGE_DIR = ('pages/')
 ARTICLE_DIR = ('posts/')
@@ -34,4 +34,4 @@ CATEGORY_URL = ('category/{slug}.html')
 MENUITEMS = (('Home', 'http://loadays.org'),)
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
-FILES_TO_COPY = (('content/CNAME', 'CNAME'),)
+FILES_TO_COPY = (('CNAME', 'CNAME'),)
