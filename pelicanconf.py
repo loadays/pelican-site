@@ -35,3 +35,30 @@ MENUITEMS = (('Home', 'http://loadays.org'),)
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 FILES_TO_COPY = (('CNAME', 'CNAME'),)
+
+# Plugins
+PLUGINS = [ 'pelican.plugins.sitemap',
+            'pelican.plugins.gzip_cache',
+            'pelican.plugins.multi_part'
+          ]
+
+# Sitemap
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.6,
+        'pages': 0.9
+    },
+    'changefreqs': {
+        'articles': 'daily',
+        'indexes': 'daily',
+        'pages': 'daily'
+    }
+}
+
+# Metadata
+META_DESCRIPTION = 'LOADays - Linux Open Administration Days - 6/4/2013 & 7/4/2013'
+META_KEYWORDS = 'loadays , load days , load '
+DEFAULT_METADATA = ( ('loadays','load days'),('load','load'),)
+
