@@ -1,5 +1,4 @@
 Title: CFP info
-status: hidden
 
 ## Loadays CFP 2013 ##
 ### How to submit your talk proposal?##
