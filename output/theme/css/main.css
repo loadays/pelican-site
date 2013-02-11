@@ -39,6 +39,10 @@ body {
 	float: right;
 }
 
+#sponsors h2 {
+	color: white;
+}
+
 /* Headings */
 h1 {font-size: 2em }
 h2 {font-size: 1.571em}	/* 22px */
