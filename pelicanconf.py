@@ -3,11 +3,11 @@
 
 AUTHOR = u"Loadays Crew"
 SITENAME = u"LOADays"
-SITEURL = 'http://loadays.org'
+SITEURL = 'http://www.loadays.org'
 TIMEZONE = 'Europe/Brussels'
 DEFAULT_LANG = 'en'
 
-FEED_RSS = 'feed.xml'
+FEED_RSS = 'feeds/rss.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 # Blogroll
