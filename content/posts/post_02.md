@@ -1,6 +1,6 @@
 Date: 2012-11-30
 Title: LOAD2013 CFP 
-Tags: loadays
+Tags: featured
 Slug: Post number 2
 
 After a successful third edition of LOAD, the crew decided to organize a fourth edition.

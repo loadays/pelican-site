@@ -1,7 +1,7 @@
 Date: 2013-01-29
 Title: LOAD2013 Call for sponsors
 Tags: loadays
-Slug: call_for_sponosors
+Slug: call_for_sponsors
 
 For this edition we are again looking for sponsors to make this event happen. The budget is solely used to accommodate speakers, infrastructure, provide food at affordable prices, etc..
 
