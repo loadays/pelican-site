@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = github:loadays/loadays.org
