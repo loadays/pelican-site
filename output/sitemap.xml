@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.loadays.org/index.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/archives.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/tags.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/categories.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -40,34 +40,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.loadays.org/pages/cfp-info.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/faq.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/schedule.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/where.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://www.loadays.org/call_for_sponosors.html</loc>
+<loc>http://www.loadays.org/call_for_sponsors.html</loc>
 <lastmod>2013-01-29T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -89,28 +89,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.loadays.org/category/misc.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/tag/featured.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/tag/loadays.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/author/loadays-crew.html</loc>
-<lastmod>2013-02-12T22:22:59-00:00</lastmod>
+<lastmod>2013-02-13T22:19:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
