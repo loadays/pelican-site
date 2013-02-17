@@ -35,6 +35,7 @@ MENUITEMS = (('Home', 'http://loadays.org'),)
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 FILES_TO_COPY = (('CNAME', 'CNAME'),)
+STATIC_PATHS = ["archives", "images"]
 
 # Plugins
 PLUGINS = [ 'pelican.plugins.sitemap',

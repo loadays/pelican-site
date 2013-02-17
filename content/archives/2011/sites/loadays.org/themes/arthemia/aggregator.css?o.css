@@ -1,0 +1,55 @@
+/* $Id: aggregator.css,v 1.1 2009/07/16 18:18:19 nbz Exp $
+File: A copy and modification of aggragator.css that comes with the core aggregator module.
+ */
+
+#aggregator .feed-source .feed-title {
+  margin-top: 0;
+}
+
+#aggregator .feed-source .feed-image img {
+  margin-bottom: 0.75em;
+}
+
+#aggregator .feed-source .feed-icon {
+  float: right; /* LTR */
+  display: block;
+}
+
+#aggregator .feed-item {
+  margin-bottom: 1.5em;
+}
+
+#aggregator .feed-item-body {
+  font-family: Verdana, "DejaVu Sans", Sans;
+}
+
+#aggregator .feed-item-body ul, #aggregator .feed-item-body ol{
+	margin-bottom:15px;
+}
+
+#aggregator .feed-item-body li{	
+	list-style:square;
+  line-height:1.7em;
+}
+
+#aggregator .feed-item-categories {
+  font-size: 0.9em;
+}
+
+#aggregator td {
+  vertical-align: bottom;
+}
+
+#aggregator td.categorize-item {
+  white-space: nowrap;
+}
+
+#aggregator .categorize-item .news-item .body {
+  margin-top: 0;
+}
+
+#aggregator .categorize-item h3 {
+  font:1.8em Georgia, "Times New Roman";
+  margin-bottom: 1em;
+  margin-top: 0;
+}
