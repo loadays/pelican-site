@@ -45,8 +45,9 @@
         
 	<div id="container">
         {% block content %}
-	</div>
         {% endblock %}
+        {% include 'sponsors.html' %}
+	</div>
  	
         <section id="extras" class="body">
         {% if LINKS %}
@@ -78,10 +79,7 @@
 
 
         <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                <a href="https://plus.google.com/115345896801995085563" rel="publisher">Google+</a>.
-                </address><!-- /#about -->
-
+                    All logo's are used with permisson of their respective owner(s).
         </footer><!-- /#contentinfo -->
 
 {% include 'analytics.html' %}
