@@ -3,7 +3,7 @@ title: Schedule
 Schedule
 ---------
 
-blalblsdasd
+To-be-Announced
 
 ##Saturday 6/4/2013
 

@@ -46,6 +46,7 @@ SPONSORGOLD =   (
                     ('Don Bosco Wilrijk','http://www.donboscowilrijk.be/','/static/images/logo_don_bosco.png'),
                     ('Nucleus','http://www.nucleus.be/','/static/images/logo_nucleus.png'),
                     ('Open Minds','http://www.openminds.be/','/static/images/logo_openminds.jpg'),
+                    ('Kumina','http://www.kumina.nl/','/static/images/logo_kumina.png'),
                     ('Percona','http://www.percona.com/','/static/images/logo_percona.jpg'),
                 )
 SPONSORSILVER = (

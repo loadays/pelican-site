@@ -1,11 +1,14 @@
 Title: FAQ
 
+
 Social media & Contacts
 ------------------------
-irc: server freenode channel #load
-twitter: @loadays and during the conference we will use the hashtag #load13
-identi.ca: we have a group called !load, or you can use the hashtag #loadays
-flickr: If you make any pictures you want to post to flickr (or another picture site), please use the tag 'loadays'.
+
+-   __irc__ : server freenode channel #load
+-   __twitter__ : [@loadays](https://twitter.com/loadays) and during the conference we will use the hashtag #load13
+-   __identi.ca__ : we have a group called !load, or you can use the hashtag #loadays
+-   __flickr__ : If you make any pictures you want to post to flickr (or another picture site), please use the tag 'loadays'
+
 
 Infrastructure
 --------------
@@ -14,10 +17,11 @@ There will also be a place where you can connect your laptop to the wired networ
 
 *SSID : LOAD*
 
+
 Food and Drinks
 ---------------
 People from the school where the event is taking place will sell drinks, sandwiches and fries at a very reasonable price.
-There're also some places to eat in the neighborhood. An overview can be found here : http://loadays.org/places-eat 
+There're also some places to eat in the neighborhood.
 
 
 
