@@ -9,7 +9,7 @@ The CFP is open until __12th of March__.
 
 
 ### Mail ###
-Send your proposal to cfp@loadays.org with following info :
+Send your proposal to [cfp@loadays.org](mailto:cfp@loadays.org) with following info :
 
 -   title of your talk
 -   abstract
