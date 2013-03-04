@@ -7,7 +7,7 @@ The CfP is open until __12th of March__, please use on of the following method t
 
 ## Mail ##
 
-Send your proposal to cfp@loadays.org with following info :
+Send your proposal to [cfp@loadays.org](mailto:cfp@loadays.org) with following info :
 
 -   title of your talk
 -   abstract
@@ -17,7 +17,7 @@ Send your proposal to cfp@loadays.org with following info :
 
 Using a Pull request by following the next steps :
 
--   Fork this site or the pelican-site repo at https://github.com/loadays/pelican-site.  
+-   Fork this site or the pelican-site repo at [https://github.com/loadays/pelican-site](https://github.com/loadays/pelican-site).
 -   Add your proposal to the content/proposals dir.  
 -   Send us a Pull Request.
 
