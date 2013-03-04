@@ -1,4 +1,36 @@
-<h2>Sponsors</h2>
-<!--<img src="http://www.loadays.eu/sites/default/files/imagecache/sponsor_logo_gold/perconad22ar04cp02zl.jpg"/>-->
-<img src="{{ SITEURL }}/static/images/logo_don_bosco.png"/>
-<img src="{{ SITEURL }}/static/images/logo_nucleus.png"/>
+<div class="sponsors">
+
+    {% if SPONSORGOLD %}
+    <h2> Gold Sponsors</h2>
+    <div class="sponsors-gold">
+        <ul>
+        {% for name, link, image in SPONSORGOLD %}
+            <li><a href="{{ link }}"><img src="{{ image }}" alt="{{ name }}"></a></li>
+        {% endfor %}
+        </ul>
+    </div><!-- /.sponsors-gold -->
+    {% endif %}
+
+    {% if SPONSORSILVER %}
+    <h2>Silver Sponsors</h2>
+    <div class="sponsors-silver">
+        <ul>
+        {% for name, link, image in SPONSORSILVER %}
+            <li><a href="{{ link }}"><img src="{{ image }}" alt="{{ name }}"></a></li>
+        {% endfor %}
+        </ul>
+    </div><!-- /.sponsors-silver -->
+    {% endif %}
+
+    {% if SPONSORBRONZE %}
+    <h2>Bronze Sponsors</h2>
+    <div class="sponsors-bronze">
+        <ul>
+        {% for name, link, image in SPONSORBRONZE %}
+            <li><a href="{{ link }}"><img src="{{ image }}" alt="{{ name }}"></a></li>
+        {% endfor %}
+        </ul>
+    </div><!-- /.sponsors-bronze -->
+    {% endif %}
+
+</div>

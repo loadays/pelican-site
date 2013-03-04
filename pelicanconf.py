@@ -10,6 +10,9 @@ DEFAULT_LANG = 'en'
 FEED_RSS = 'feeds/rss.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 
+MD_EXTENSIONS = [ 'codehilite' , 'extra' , 'toc' , 'fenced_code' , 'footnotes' ]
+MARKUP = [ 'md' , 'rst' , 'html' ]
+
 # Blogroll
 #LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 #          ('Python.org', 'http://python.org'),
@@ -19,6 +22,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
+#          <a href="https://plus.google.com/115345896801995085563" rel="publisher">Google+</a>.
 #ARTICLE_URL = '{slug}'
 #DEFAULT_CATEGORY = ''
 
@@ -26,7 +30,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 THEME = 'content/theme/loadays'
 
 OUTPUT_PATH = "output/"
-#DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = True
 
 PAGE_DIR = ('pages/')
 ARTICLE_DIR = ('posts/')
@@ -36,6 +40,25 @@ DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 FILES_TO_COPY = (('CNAME', 'CNAME'),)
 STATIC_PATHS = ["archives", "images"]
+
+# Sponsor section
+SPONSORGOLD =   (
+                    ('Don Bosco Wilrijk','http://www.donboscowilrijk.be/','/static/images/logo_don_bosco.png'),
+                    ('Nucleus','http://www.nucleus.be/','/static/images/logo_nucleus.png'),
+                    ('Open Minds','http://www.openminds.be/','/static/images/logo_openminds.jpg'),
+                    ('Kumina','http://www.kumina.nl/','/static/images/logo_kumina.png'),
+                    ('Percona','http://www.percona.com/','/static/images/logo_percona.jpg'),
+                )
+SPONSORSILVER = (
+                )
+SPONSORBRONZE = (
+                    ('VanTosh','http://www.vantosh.com/','/static/images/logo_vantosh.png'),
+                    #('IT Partners','','/static/images/logo_itpartners.gif'),
+                )
+
+# Social connections
+GITHUB_URL = 'https://github.com/loadays/pelican-site/'
+GITHUB_POSITION = 'left'
 
 # Plugins
 PLUGINS = [ 'pelican.plugins.sitemap',
@@ -62,4 +85,3 @@ SITEMAP = {
 META_DESCRIPTION = 'LOADays - Linux Open Administration Days - 6/4/2013 & 7/4/2013'
 META_KEYWORDS = 'loadays , load days , load '
 DEFAULT_METADATA = ( ('loadays','load days'),('load','load'),)
-

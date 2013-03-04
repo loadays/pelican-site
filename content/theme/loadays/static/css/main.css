@@ -33,16 +33,27 @@ body {
 	/*background-color: red;*/ /*for testing purpose*/
 }
 
-#sponsors {
+.sponsors {
 	width: 200px;
-	margin: auto;
 	float: right;
-	clear: both;
-	margin-top: 1em;
 }
-
-#sponsors h2 {
+.sponsors h2 {
 	color: white;
+}
+.sponsors ul {
+    list-style: none;
+}
+.sponsors-gold img {
+    width: 200px;
+    height: 75px;
+}
+.sponsors-silver img {
+    width: 200px;
+    height: 75px;
+}
+.sponsors-bronze img {
+    width: 200px;
+    height: 75px;
 }
 
 /* Headings */
@@ -65,8 +76,13 @@ h3, h4, h5, h6 { margin-top: .8em; }
 hr { border: 2px solid #EEEEEE; }
 
 /* Anchors */
-a {outline: 0;}
-a img {border: 0px; text-decoration: none;}
+a {
+    outline: 0;
+}
+a img {
+    border: 0px;
+    text-decoration: none;
+}
 a:link, a:visited {
 	color: #C74350;
 	padding: 0 1px;
@@ -84,10 +100,15 @@ h1 a:hover {
 }
 	
 /* Paragraphs */
-p {margin-bottom: 1.143em;}
-
-strong, b {font-weight: bold;}
-em, i {font-style: italic;}
+p {
+    margin-bottom: 1.143em;
+}
+strong, b {
+    font-weight: bold;
+}
+em, i {
+    font-style: italic;
+}
 
 /* Lists */
 ul {
@@ -240,13 +261,12 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	Featured
 *****************/
 #featured {
-	background: #fff;
+	background: #FCFCBB;
 	margin-top: 1em;
 	margin-bottom: 1em;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	padding: 20px;
-	/*width: 760px;*/
-	width: 500px;
+	width: 760px;
 	float: left;
 	
 	border-radius: 10px;
@@ -277,7 +297,6 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-top: 1em;
 	overflow: hidden;
 	padding: 20px 20px;
-	/*width: 760px;*/
 	width: 500px;
 	float: left; /* added for loadays theme */
 
@@ -369,7 +388,11 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 /*
 	Footer
 *****************/
-#contentinfo {padding-bottom: 2em; text-align: right;}
+#contentinfo {
+    color: #ffffff;
+    padding-bottom: 2em;
+    text-align: center;
+}
 
 /***** Sections *****/
 /* Blog */

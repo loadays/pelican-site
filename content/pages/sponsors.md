@@ -1,4 +1,11 @@
-title: sponosrs
+title: sponsors
 status: hidden
 
-== Sponsors
+## Sponsors ##
+
+### Gold Sponsors ###
+
+### Silver Sponsors ###
+
+### Bronze Sponsors ###
+
