@@ -13,11 +13,22 @@ With this event we want to provide a platform for Linux and Unix SysAdmins to ge
 This is a free event, and therefore there's __no entrance fee !__
 
 Archived sites
-==============
+--------------
 We created static versions of the sites from the previous editions.
 
 - [2011](../static/archives/2011/index.html)
 - [2012](../static/archives/2012/index.html)
 
+Posters
+-------
+ If you like to support Loadays you can by printing the posters below
+ and hang them in your office, school or anywhere you want.
 
- 
+<table>
+<tr><td>A4 Format</td><td>A3 Format</td></tr> 
+<tr>
+<td><a href="../static/images/LOAD_affiche_A4_2013.png"><img src="../static/images/LOAD_affiche_2013_thumb.png"/></a></td>
+<td><a href="../static/images/LOAD_affiche_A3_2013.png"><img src="../static/images/LOAD_affiche_2013_thumb.png"/></a></td>
+</tr>
+</table>
+
