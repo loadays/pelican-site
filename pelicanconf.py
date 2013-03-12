@@ -45,6 +45,7 @@ STATIC_PATHS = ["archives", "images"]
 SPONSORGOLD =   (
                     ('Don Bosco Wilrijk','http://www.donboscowilrijk.be/','/static/images/logo_don_bosco.png'),
                     ('Inuits','http://www.inuits.eu/','/static/images/logo_inuits.png'),
+                    ('Proxy','http://www.proxy.nl/','/static/images/logo_proxy.png'),
                     ('Nucleus','http://www.nucleus.be/','/static/images/logo_nucleus.png'),
                     ('Combell','http://www.combell.be/','/static/images/logo_combell.png'),
                     ('Openminds','http://www.openminds.be/','/static/images/logo_openminds.jpg'),
