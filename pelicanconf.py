@@ -49,7 +49,7 @@ SPONSORGOLD =   (
                     ('Nucleus','http://www.nucleus.be/','/static/images/logo_nucleus.png'),
                     ('Combell','http://www.combell.be/','/static/images/logo_combell.png'),
                     ('Openminds','http://www.openminds.be/','/static/images/logo_openminds.jpg'),
-                    ('Kumina','http://www.kumina.nl/','/static/images/logo_kumina.png'),
+                    ('Kumina','http://www.kumina.nl/en-gb/home.php','/static/images/logo_kumina.png'),
                     ('Kangaroot','http://www.kangaroot.net/','/static/images/logo_kangaroot.png'),
                     ('Percona','http://www.percona.com/','/static/images/logo_percona.jpg'),
                 )
