@@ -45,10 +45,11 @@ STATIC_PATHS = ["archives", "images"]
 SPONSORGOLD =   (
                     ('Don Bosco Wilrijk','http://www.donboscowilrijk.be/','/static/images/logo_don_bosco.png'),
                     ('Inuits','http://www.inuits.eu/','/static/images/logo_inuits.png'),
+                    ('Proxy','http://www.proxy.nl/','/static/images/logo_proxy.png'),
                     ('Nucleus','http://www.nucleus.be/','/static/images/logo_nucleus.png'),
                     ('Combell','http://www.combell.be/','/static/images/logo_combell.png'),
                     ('Openminds','http://www.openminds.be/','/static/images/logo_openminds.jpg'),
-                    ('Kumina','http://www.kumina.nl/','/static/images/logo_kumina.png'),
+                    ('Kumina','http://www.kumina.nl/en-gb/home.php','/static/images/logo_kumina.png'),
                     ('Kangaroot','http://www.kangaroot.net/','/static/images/logo_kangaroot.png'),
                     ('Percona','http://www.percona.com/','/static/images/logo_percona.jpg'),
                 )
@@ -56,7 +57,12 @@ SPONSORSILVER = (
                 )
 SPONSORBRONZE = (
                     ('VanTosh','http://www.vantosh.com/','/static/images/logo_vantosh.png'),
+<<<<<<< HEAD
                     ('IT Partners','','/static/images/logo_itpartners.gif'),
+=======
+                    ('Open Future','http://www.open-future.be/','/static/images/logo_openfuture.png'),
+                    #('IT Partners','','/static/images/logo_itpartners.gif'),
+>>>>>>> 5dd39c021789fea0fb8575d0d958152f99ff64b8
                 )
 
 # Social connections
