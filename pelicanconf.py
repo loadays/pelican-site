@@ -57,12 +57,8 @@ SPONSORSILVER = (
                 )
 SPONSORBRONZE = (
                     ('VanTosh','http://www.vantosh.com/','/static/images/logo_vantosh.png'),
-<<<<<<< HEAD
                     ('IT Partners','','/static/images/logo_itpartners.gif'),
-=======
                     ('Open Future','http://www.open-future.be/','/static/images/logo_openfuture.png'),
-                    #('IT Partners','','/static/images/logo_itpartners.gif'),
->>>>>>> 5dd39c021789fea0fb8575d0d958152f99ff64b8
                 )
 
 # Social connections
