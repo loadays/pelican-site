@@ -54,7 +54,8 @@ SPONSORGOLD =   (
                     ('Percona','http://www.percona.com/','/static/images/logo_percona.jpg'),
                 )
 SPONSORSILVER = (
-                    ('Red Hat','http://www.redhat.be/','/static/images/logo_redhat.jpg'),
+                    ('Red Hat','http://www.redhat.com/','/static/images/logo_redhat.jpg'),
+                    ('SuSE','http://www.suse.com/','/static/images/logo_suse.jpg'),
                 )
 SPONSORBRONZE = (
                     ('VanTosh','http://www.vantosh.com/','/static/images/logo_vantosh.png'),
