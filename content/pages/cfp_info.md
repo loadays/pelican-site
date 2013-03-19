@@ -1,5 +1,5 @@
 Title: Call-for-Presentation
-
+Status: hidden
 
 ## LOADays Call-for-Presentation 2013 ##
 The CFP is open until __12th of March__.
