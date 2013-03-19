@@ -16,6 +16,7 @@ Here is an overview of the accepted and confirmed Talks & Tutorials.
 -   __What's new in syslog-ng__ (Peter Czanik)
 -   __Introduction to Ansible__ (Jan Piet Mens)
 -   __Network Block Device: network-based block storage for Linux systems__ (Wouter Verhelst)
+-   __Bigger data in postgres 9.2__ (Bert Desmet)
 
 ## Tutorials ##
 
