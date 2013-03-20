@@ -3,12 +3,21 @@ title: Schedule
 Schedule
 ---------
 
-To-be-Announced
 
 ##Saturday 6/4/2013
 
-TBA
+|time| Room1 | Room2 | Room3  |
+|----|------ | ------ | -----: |
+|    |       |        |        |
+|    |        |        |        |
+
+
 
 ##Sunday 7/4/2013
 
-TBA
+|time| Room1 | Room2 | Room3  |
+|----|------ | ------ | -----: |
+|    |       |        |        |
+|    |       |        |        |
+
+
