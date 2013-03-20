@@ -1,5 +1,7 @@
 title: Tutorial about provisioning and management using Ansible
-category: talks
+category: workshop
+status: hidden
+date: 2013-03-20
 
 Abstract
 ---------

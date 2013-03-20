@@ -1,6 +1,7 @@
 title: Our DevOps story: Chef + Rails for customer cloud control
+category: talk
 status: hidden
-category: proposals
+date: 2013-03-20
 
 Abstract
 ---------
