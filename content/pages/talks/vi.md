@@ -1,5 +1,6 @@
 title: VI tutorial 
 category: talk
+status: hidden
 date: 2013-03-20
 
 Abstract
