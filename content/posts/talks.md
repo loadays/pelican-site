@@ -1,7 +1,13 @@
 Title: Talks
 Date: 2013-03-19
 
-Here is an overview of the accepted and confirmed Talks & Tutorials.
+
+We've already got confirmation an interresting number of talks ..
+more will come when they have been confirmed in the next couple of days.
+
+We are also still working on the actual schedule.
+
+
 
 ## Talks ##
 
@@ -18,12 +24,6 @@ Here is an overview of the accepted and confirmed Talks & Tutorials.
 -   __Network Block Device: network-based block storage for Linux systems__ (Wouter Verhelst)
 -   __Bigger data in postgres 9.2__ (Bert Desmet)
 -   __Chef + Rails for customer cloud control__ (Steven - Joren)
--   __JSS: Secure access to remote applications__ (Hans Witvliet)
--   __CloudStack and Ceph__ (Wido den Hollander)
--   __ExtreMon: Monitoring like NORAD__ (Frank Marien)
--   __Fast and reliable multi-OS provisionning with Cobbler__ (Matthieu Cerda)
--   __Kattelo__ (Francesco Vollero)
--   __Deltacloud__ (Francesco Vollero)
 
 ## Tutorials ##
 
