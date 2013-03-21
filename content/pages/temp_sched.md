@@ -6,34 +6,7 @@ status: hidden
 
 ##Saturday 6/4/2013
 
-<<<<<<< HEAD
-|time           | Room1 | Room2 | Room3  |
-|---------------|------ | ------ | -----: |
-| 09:20 - 09:30 | __Introduction__ |
-| 09:30 - 10:25 |       |        |        |
-| 10:30 - 11:25 |        |        |        |
-| 11:30 - 12:35 | Ansible       |        |        |
-| 12:30 - 13:25 | __Lunch__ |
-| 13:30 - 14:25 |        |  Ansible workshop      |        |
-| 14:30 - 15:25 |        |        |        |
-| 15:30 - 16:25 |        |        |        |
-| 16:30 - 16:55 | __Suprce__ |
-| 17:00 - 18:00 |        |        |        |
 
-##Sunday 7/4/2013
-
-|time           | Room1 | Room2 | Room3  |
-|---------------|------ | ------ | -----: |
-| 09:30 - 10:25 |       |        |        |
-| 10:30 - 11:25 |        |        |        |
-| 11:30 - 12:35 |        |        |        |
-| 12:30 - 13:25 | __Lunch__ |
-| 13:30 - 14:25 |        |        |        |
-| 14:30 - 15:25 |        |        |        |
-| 15:30 - 16:25 |        |        |        |
-| 16:30 - 16:55 | __Suprce__ |
-| 17:00 - 18:00 |        |        |        |
-=======
 | time          | Room1 | Room2 | Room3 |
 |---------------|-------|-------|-------|
 | 09:20 09:30 | Introduction |
@@ -47,7 +20,6 @@ status: hidden
 | 16:30 16:55 | _Break_ |
 | 17:00 18:00 | __C.R.E.A.M : Cache Rules Everything Around Me__ (Thijs Feryn) | __Integrating Linux into an Active Directory domain__ (Gábor Nyers) | _Open Space_ |
 
->>>>>>> 10b7a248bc5c58c9ca8155efbdbc13017b5c4c96
 
 ##Sunday 7/4/2013
 
