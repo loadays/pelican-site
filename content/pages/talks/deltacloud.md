@@ -1,4 +1,4 @@
-title: Aeolus and Katello FTW (For the Win) 
+title: Deltacloud
 category: talk
 status: hidden
 date: 2013-03-20

@@ -1,6 +1,5 @@
-title: 
+title: VI tutorial 
 category: talk
-status: workshop
 date: 2013-03-20
 
 Abstract
