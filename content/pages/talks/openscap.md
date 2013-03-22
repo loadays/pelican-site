@@ -1,4 +1,5 @@
 title: Introduction to OpenSCAP 
+slug: introduction_to_openscap
 category: talk
 status: hidden
 date: 2013-03-20

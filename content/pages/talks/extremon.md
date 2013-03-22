@@ -1,4 +1,5 @@
 title: ExtreMon: Monitoring like NORAD
+slug: extremon
 category: talks
 status: hidden
 date: 2013-03-20

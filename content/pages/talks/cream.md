@@ -1,4 +1,5 @@
 title: C.R.E.A.M (Cache Rules Everything Around Me) 
+slug: cream
 category: talk
 status: hidden
 date: 2013-03-20
@@ -12,10 +13,9 @@ caching techniques used in PHP: APC, Memcached and Redis. But we'll also talk
 about web and proxy servers such as Varnish and Nginx. This talk is not a PHP
 talk, but code examples will be applied to PHP projects
 
-Speaker
--------
+Speaker : Thijs Feryn
+----------------------
 
-Thijs Feryn
 
 Thijs is an evangelist at Combell, the top Belgian hoster. As an evangelist he
 supports communities and has a particular love for the PHP community. He loves

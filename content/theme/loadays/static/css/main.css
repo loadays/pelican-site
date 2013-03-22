@@ -156,7 +156,14 @@ div.note {
 }
 
 /* Tables */
-table {margin: .5em auto 1.5em auto; width: 98%;}
+table {
+    margin: .5em auto 1.5em auto;
+    width: 98%;
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;    
+}
 	
 	/* Thead */
 	thead th {padding: .5em .4em; text-align: left;}

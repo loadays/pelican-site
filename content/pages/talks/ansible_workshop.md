@@ -1,4 +1,5 @@
 title: Tutorial about provisioning and management using Ansible
+slug: tutorial_about_provisioning_and_management_using_ansible
 category: workshop
 status: hidden
 date: 2013-03-20
@@ -30,8 +31,8 @@ This tutorial will highlight the following topics:
 
 Speaker
 -------
-Dag Wieers <dag@wieers.com>
-Jeroen Hoekx <jeroen@hoekx.be>
+-   Dag Wieers <dag@wieers.com>
+-   Jeroen Hoekx <jeroen@hoekx.be>
 
 Slides
 ------
