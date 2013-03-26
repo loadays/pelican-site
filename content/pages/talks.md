@@ -22,9 +22,14 @@ Here is an overview of the accepted and confirmed Talks & Tutorials.
 -   [__CloudStack and Ceph__ (Wido den Hollander)]()
 -   [__ExtreMon: Monitoring like NORAD__ (Frank Marien)](extremon.html)
 -   [__Fast and reliable multi-OS provisionning with Cobbler__ (Matthieu Cerda)]()
--   [__Kattelo__ (Francesco Vollero)]()
+-   [__Katello__ (Francesco Vollero)]()
 -   [__Deltacloud__ (Francesco Vollero)]()
 -   [__Introduction to OpenSCAP__ (Tim Speetjens)](introduction_to_openscap.html)
+-   [__Gluster for SysAdmins__ (Justin Clift)]()
+-   [__Infrastructure management with FusionDirectory__ (Benoit Mortier)]()
+-   [__Introduction to VIM__ (Jeroen Budts)]()
+-   [__File Security Management for Linux__ (Paul Cobbaut)]()
+-   [__A tutorial about the bash shell__ (Paul Cobbaut)]()
 
 ## Tutorials ##
 
@@ -32,5 +37,3 @@ Here is an overview of the accepted and confirmed Talks & Tutorials.
 -   [__Puppet tutorial__ (Garrett Honeycutt)]()
 -   [__Automated Everything - Setting up an openQRM Cloud__ (Matthias Rechenburg)]()
 -   [__Tutorial about provisioning and management using Ansible__ (Dag Wieers - Jeroen Hoekx)](tutorial_about_provisioning_and_management_using_ansible.html)
--   [__Disk Management Workshop__ (Paul Cobbaut)](disk_management.html)
--   [(Paul Cobbaut)]()
