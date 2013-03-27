@@ -56,6 +56,16 @@ body {
     height: 75px;
 }
 
+.buttons {
+    position: absolute;
+    top: 5px;
+    right: 50px;
+    border: 0;
+}
+.buttons ul {
+    list-style: none;
+}
+
 /* Headings */
 h1 {font-size: 2em }
 h2 {font-size: 1.571em}	/* 22px */

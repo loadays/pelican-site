@@ -1,0 +1,13 @@
+<div class="button">
+
+    {% if BUTTONS %}
+    <div class="buttons">
+        <ul>
+        {% for code in BUTTONS %}
+            <li>{{ code }}</li>
+        {% endfor %}
+        </ul>
+    </div><!-- /.buttons -->
+    {% endif %}
+
+</div>
