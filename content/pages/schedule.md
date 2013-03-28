@@ -16,7 +16,7 @@ slug: schedule
 | 14:30 15:25 | [__Fast and reliable multi-OS provisionning with Cobbler__]() (Matthieu Cerda) | [__Gluster for SysAdmins__]() (Justin Clift) | [__Tutorial about provisioning and management using Ansible__](tutorial-about-provisioning-and-management-using-ansible.html) (Dag Wieers - Jeroen Hoekx) |
 | 15:30 16:25 | [__Normalised instance provisioning for dev, on-premise and public clouds__](normalised-instance-provisioning-for-dev-on-premise-and-public-clouds.html) (Karanbir Singh) | [__CloudStack and Ceph__](intro-to-ceph.html) (Wido den Hollander) | [__Tutorial about provisioning and management using Ansible__](tutorial-about-provisioning-and-management-using-ansible.html) (Dag Wieers - Jeroen Hoekx) |
 | 16:30 16:55 | _Break_ |
-| 17:00 17:55 | [__C.R.E.A.M : Cache Rules Everything Around Me__](cream-cache-rules-everything-around-me.html) (Thijs Feryn) | [__Integrating Linux into an Active Directory domain__](integrating-linux-into-an-active-directory-domain.html) (Gábor Nyers) | _Open Space_ |
+| 17:00 17:55 | [__C.R.E.A.M : Cache Rules Everything Around Me__](cream-cache-rules-everything-around-me.html) (Thijs Feryn) | [__Integrating Linux into an Active Directory domain__](integrating-linux-into-an-active-directory-domain.html) (Gábor Nyers) | __Belgian Puppet Usergroup KickOff__ |
 | 18:00 22:00 | _Social Event_
 
 
