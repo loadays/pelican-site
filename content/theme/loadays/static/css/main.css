@@ -61,6 +61,7 @@ body {
     top: 5px;
     right: 50px;
     border: 0;
+    text-align: center;
 }
 .buttons ul {
     list-style: none;
