@@ -30,6 +30,7 @@ Here is an overview of the accepted and confirmed Talks & Tutorials.
 -   [__Introduction to VIM__ (Jeroen Budts)]()
 -   [__File Security Management for Linux__ (Paul Cobbaut)]()
 -   [__A tutorial about the bash shell__ (Paul Cobbaut)]()
+-   [__Resolving MySQL Problems Quickly __ (Kenny Gryp)]()
 
 ## Tutorials ##
 
