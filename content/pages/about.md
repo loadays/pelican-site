@@ -12,6 +12,15 @@ With this event we want to provide a platform for Linux and Unix SysAdmins to ge
 
 This is a free event, and therefore there's __no entrance fee !__
 
+Organizers
+-----------
+-   Geert Goossens (Verizon)
+-   Kenny Gryp (Percona)
+-   Kris Buytaert (Inuits)
+-   Robert Keersse (Don Bosco Werken en Leren)
+-   Toshaan Bharvani (VanTosh)
+-   Vincent Van der Kussen (Multihost)
+
 Archived sites
 --------------
 We created static versions of the sites from the previous editions.
@@ -31,4 +40,3 @@ Posters
 <td><a href="../static/images/LOAD_affiche_A3_2013.png"><img src="../static/images/LOAD_affiche_2013_thumb.png"/></a></td>
 </tr>
 </table>
-
