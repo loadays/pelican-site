@@ -1,4 +1,4 @@
-title: Where
+title: Venue
 
 ## Address
 
