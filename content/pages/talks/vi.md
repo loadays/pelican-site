@@ -1,4 +1,5 @@
-title: VI tutorial 
+title: VI tutorial
+slug: vi
 category: talk
 status: hidden
 date: 2013-03-20

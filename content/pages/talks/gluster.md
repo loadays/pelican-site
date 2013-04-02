@@ -1,4 +1,5 @@
 title: Gluster for Sysadmins
+slug: gluster-for-sysadmins
 category: talk
 status: hidden
 date: 2013-04-01
