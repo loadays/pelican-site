@@ -1,4 +1,5 @@
 title: OpenLDAP's Lightning Memory-Mapped Database
+slug: openldap
 category: workshop
 status: hidden
 date: 2013-03-20
