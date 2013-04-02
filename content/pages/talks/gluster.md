@@ -27,7 +27,7 @@ He's presently working with Gluster, integrating it with other Open Source
 projects, to spread the benefits of low cost, distributed storage to the
 widest audience possible.
 
-Prior to joining Red Hat, Justin has a *nix/Linux SysAdmin for well over a decade,
+Prior to joining Red Hat, Justin was a *nix/Linux SysAdmin for well over a decade,
 working on mission critical enterprise systems in Telco, Banking, and [can't be disclosed to due NDA :>] types of environments.
 
 Justin's idea of fun is setting up high speed Infiniband storage environments
