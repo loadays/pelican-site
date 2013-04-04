@@ -1,11 +1,24 @@
 title: Tutorial about provisioning and management using Ansible
-slug: tutorial_about_provisioning_and_management_using_ansible
+slug: tutorial-about-provisioning-and-management-using-ansible
 category: workshop
 status: hidden
 date: 2013-03-20
 
+Requirements
+-------------
+
+```bash
+ - Laptop with KVM support 
+   - CPU with VMX/SVM CPU instruction
+   - VT enabled in the BIOS
+ - Libvirt installation with KVM support
+ - About 5GB free disk space
+```
+
+
 Abstract
 ---------
+
 About every year new tools for systems management are being released that fill a certain niche, or exploit the possibilities of configuration management by using yet another implemlentation language or a single compelling feature. And from a cynical point-of-view, Ansible is not different. However the design principles behind Ansible make it an exciting new alternative that simplifies and redefines systems management.
 
 Key features of Ansible:
@@ -29,11 +42,15 @@ This tutorial will highlight the following topics:
  - Using Ansible for provisioning
    - Integration with EC2, vSphere, KVM or RHEV
 
+
 Speaker
--------
+--------
+
 -   Dag Wieers <dag@wieers.com>
 -   Jeroen Hoekx <jeroen@hoekx.be>
 
+
 Slides
-------
+-------
+
 will be added after talk
