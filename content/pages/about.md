@@ -19,7 +19,7 @@ Organizers
 -   Kris Buytaert (Inuits)
 -   Robert Keersse (Don Bosco Werken en Leren)
 -   Toshaan Bharvani (VanTosh)
--   Vincent Van der Kussen (Multihost)
+-   Vincent Van der Kussen (BTR Services)
 
 Archived sites
 --------------
