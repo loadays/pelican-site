@@ -4,6 +4,16 @@ category: workshop
 status: hidden
 date: 2013-03-20
 
+
+Requirements !
+--------------
+This workshop requires the following :
+
+- Laptop with VMX instruction set (enabled in BIOS)
+- Libvirt/KVM installed and running.
+- 5GB of free  diskspace
+
+
 Abstract
 ---------
 About every year new tools for systems management are being released that fill a certain niche, or exploit the possibilities of configuration management by using yet another implemlentation language or a single compelling feature. And from a cynical point-of-view, Ansible is not different. However the design principles behind Ansible make it an exciting new alternative that simplifies and redefines systems management.
