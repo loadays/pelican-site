@@ -1,5 +1,5 @@
 title: Integrating Linux into an Active Directory domain
-slug: integrating_linux_into_an_active_directory_domain
+slug: linux-ad
 category: talk
 status: hidden
 date: 2013-03-20

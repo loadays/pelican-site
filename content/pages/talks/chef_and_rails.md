@@ -1,5 +1,5 @@
 title: Our DevOps story: Chef + Rails for customer cloud control
-slug: chefrails
+slug: chef-rails
 category: talk
 status: hidden
 date: 2013-03-20

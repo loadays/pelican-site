@@ -1,4 +1,5 @@
 title: File Security
+slug: filesec
 category: workshop
 status: hidden
 date: 2013-03-20
