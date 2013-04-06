@@ -1,4 +1,5 @@
 title: Infrastructure management with FusionDirectory
+slug: fusiondir
 status: hidden
 category: proposals
 

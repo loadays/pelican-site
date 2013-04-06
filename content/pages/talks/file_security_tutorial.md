@@ -6,9 +6,12 @@ date: 2013-03-20
 
 Abstract
 ---------
-Workshop about chmod en chown, octal permissions, umask and options like mkdir -m en cp -p. 
-We continue with sticky bit and setgid on directories, and setuid on binaries.
-Other than that also getfacl/setfacl and lsattr/chattr will be talked about.
+"An introduction to commands like chmod and chown, go over octal
+permissions, discover the umask and options like mkdir -m and cp -p.
+We continue with the sticky bit, setgid on directories and setuid on
+binaries. We end with getfacl/setfacl and lsattr/chattr.
+If time permits then hard links/inodes will be explained."
+
 
 Speaker
 -------
