@@ -62,6 +62,7 @@ SPONSORBRONZE = (
                     ('Symas','http://www.symas.com/','/static/images/logo_symas.png'),
                     ('IT Partners',' ','/static/images/logo_itpartners.png'),
                     ('Open Future','http://www.open-future.be/','/static/images/logo_openfuture.png'),
+                    ('LPI','http://www/lpi.org/','/static/images/logo_lpi.png'),
                 )
 BUTTONS = (
             ('<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/countdown-widget?eid=5872485763" frameborder="0" height="291" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:195px; text-align:center;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/ecount">Online Ticketing</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://centosdojoantwerp2013.eventbrite.com?ref=ecount">CentOS Dojo Antwerp 2013</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=ecount">Eventbrite</a></div></div>'),
