@@ -18,4 +18,4 @@ We will both be giving this presentation because we cover both the Dev and Ops i
 
 Slides
 ------
-will be added after talk
+[https://speakerdeck.com/joren/chef-and-rails-our-story](https://speakerdeck.com/joren/chef-and-rails-our-story)
