@@ -44,5 +44,6 @@ being a committer and eventually PMC member of the project.
 
 Slides
 ------
+
 -   [Slides : Cloudstack & Ceph](/static/slides/ceph storage for cloudstack.pdf) _pdf_
 -   [Slides : Ceph](/static/slides/20121102-ceph-day-sage.pdf) _pdf_
