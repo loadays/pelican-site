@@ -25,4 +25,4 @@ Conference in January.
 
 Slides
 ------
-will be added after talk
+[Slides](https://speakerdeck.com/thijsferyn/c-dot-r-e-dot-a-m-cache-rules-everything-around-me) _Speakersdeck_

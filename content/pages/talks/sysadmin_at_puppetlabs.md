@@ -45,4 +45,4 @@ infrastructure software.
 
 Slides
 ------
-will be added after talk
+[Slides](loadays-revamped-2013.pdf) _pdf_

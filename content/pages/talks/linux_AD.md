@@ -42,4 +42,4 @@ Unix and Linux system administration to infrastructure architecture.
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/2013-04-06_loadays-be_interop.pdf) _pdf_

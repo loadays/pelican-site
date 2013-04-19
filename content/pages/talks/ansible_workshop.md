@@ -52,5 +52,4 @@ Speaker
 
 Slides
 -------
-
-will be added after talk
+[Workshop Files](https://github.com/ansible-provisioning/workshop) _github_

@@ -36,4 +36,4 @@ at home, from parts bought off eBay.  Really. :)
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/glusterfs_for_sysadmins-justin_clift.odp) _odp_

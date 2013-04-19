@@ -35,4 +35,4 @@ Russia, Belgium, Norway, Czech Republic, India, and Australia.
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/20130407-LOAD_Puppevtv3_and_Hiera.pdf) _pdf_

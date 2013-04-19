@@ -45,4 +45,4 @@ integration by a unified virtualization layer.
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/automate-everything-openqrm-slides-loadays2013.pdf) _pdf_

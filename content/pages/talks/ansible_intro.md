@@ -29,4 +29,4 @@ other technical publications. [http://mens.de]([http://mens.de)
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/ansible.pdf) _pdf_

@@ -22,4 +22,4 @@ in Platform products
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/Introduction-to-OpenSCAP-Loadays.pdf) _pdf_

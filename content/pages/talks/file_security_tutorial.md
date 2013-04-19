@@ -20,4 +20,4 @@ Paul Cobbaut
 
 Slides
 ------
-will be added after talk
+[Part 8](http://linux-training.be/files/books/html/fun/pt08.html) _html_

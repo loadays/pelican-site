@@ -15,4 +15,4 @@ Jaime Melis has been part of the OpenNebula team for the last 3 years, as core e
 
 Slides
 ------
-will be added after talk
+[Slides](http://www.slideshare.net/opennebula/loadays-2013open-nebulafundamentals) _SlideShare_
