@@ -5,8 +5,7 @@ We survived a fourth edition of LOADays, we had a good turn-out and a lot of pos
 We want to thank all the speakers, sponsors and visitors.
 A special thanks goes to [Don Bosco Werken en Leren Wilrijk](http://www.donboscowilrijk.be/site/), they provide us with the venue and a lot more.
 
-__The slides of the presentations have been added.__
-Use the [Talks](/pages/talks.html) or the [Schedule](/pages/schedule.html) to find the presentations.
+__The slides of the presentations have been added.__ Use the [Schedule](/pages/schedule.html) to find the presentations.
 
 We would like people to subscribe to our [mailing list](http://lists.loadays.org/mailman/listinfo/load).
 This mailing list will be used to announce next events, related events or colocated events.
