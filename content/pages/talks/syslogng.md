@@ -31,4 +31,4 @@ works on one of his PPC or ARM machines.
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/czp2013_whatsnewinsyslog-ng_v2.pdf) _pdf_

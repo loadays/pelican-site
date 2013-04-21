@@ -20,6 +20,17 @@ Coming from Boom it's on your right, coming from Antwerp it's on your left (stra
 Take the exit Wilrijk, till you reach Boomse Steenweg (the bridge) then left direction Boom (as above).  
 From the Antwerp Ring take exit Wilrijk, Boom. Follow A12 direction Boom, take exit Wilrijk! then return back direction Antwerpen using the outer lanes
 
+## By Train:
+
+Take the train to __Antwerpen Centraal__ or __Antwerpen Berchem__ railway station
+
+-   From _Antwerpen Centraal_ take the bus :
+    -   Bus number __17__ : Direction UZA / Wilrijk
+    -   Bus number __21__ : Direction Neerland / Wilrijk / Middelheim
+    -   Bus number __500__ - Direction: Mechelen / Boom / Rumst 
+-   From _Antwerpen Berchem_ take the bus :
+    -   Bus number __21__ : Direction Neerland / Wilrijk / Middelheim
+
 ## By Bus:
 
 -   Busses that stop at the valkstraat (Boomsesteenweg)
@@ -34,3 +45,7 @@ From the Antwerp Ring take exit Wilrijk, Boom. Follow A12 direction Boom, take e
     -   181 : Rumst - Groenplaats Antwerp
     -   182 : Boom - Groenplaats Antwerp
     -   183 : Niel - Groenplaats Antwerp
+
+## Extra info:
+
+For the train use the following url for more information [NMBS](http://www.belgianrail.be/) and for bus/tram use [De Lijn](http://www.delijn.be/)

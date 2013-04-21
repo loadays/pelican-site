@@ -15,4 +15,4 @@ Gratien D'haese
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/Integrating-UEFI-into-rear.pdf) _pdf_

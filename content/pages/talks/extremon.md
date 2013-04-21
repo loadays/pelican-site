@@ -43,4 +43,4 @@ Impatient Extreme Monitoring Person.
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/extremon_loadays_2013.svg) _svg_

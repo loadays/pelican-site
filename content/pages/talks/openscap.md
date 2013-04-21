@@ -1,5 +1,5 @@
 title: Introduction to OpenSCAP 
-slug: introduction_to_openscap
+slug: introduction-to-openscap
 category: talk
 status: hidden
 date: 2013-03-20
@@ -22,4 +22,4 @@ in Platform products
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/Introduction-to-OpenSCAP-Loadays.pdf) _pdf_

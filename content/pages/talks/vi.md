@@ -16,4 +16,4 @@ Jeroen Budts
 
 Slides
 ------
-Will be made available at https://github.com/teranex/talk-vim
+[Online Slides](https://github.com/teranex/talk-vim) _github_

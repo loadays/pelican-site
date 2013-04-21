@@ -16,4 +16,4 @@ Paul Cobbout
 
 Slides
 ------
-will be added after talk
+[Part 3](http://linux-training.be/files/books/html/fun/pt03.html) _html_

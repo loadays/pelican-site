@@ -1,5 +1,5 @@
 title: Our DevOps story: Chef + Rails for customer cloud control
-slug: chefrails
+slug: chef-rails
 category: talk
 status: hidden
 date: 2013-03-20
@@ -18,4 +18,4 @@ We will both be giving this presentation because we cover both the Dev and Ops i
 
 Slides
 ------
-will be added after talk
+[Slides](https://speakerdeck.com/joren/chef-and-rails-our-story) _SpeakerDeck_

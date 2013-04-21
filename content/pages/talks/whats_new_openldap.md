@@ -15,4 +15,4 @@ Howard Chu is a Founder and the CTO of Symas Corporation and also currently Chie
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/20130406-LOADays-LMDB.pdf) _pdf_

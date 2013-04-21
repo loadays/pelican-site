@@ -1,5 +1,5 @@
 title: Integrating Linux into an Active Directory domain
-slug: integrating_linux_into_an_active_directory_domain
+slug: linux-ad
 category: talk
 status: hidden
 date: 2013-03-20
@@ -42,4 +42,4 @@ Unix and Linux system administration to infrastructure architecture.
 
 Slides
 ------
-will be added after talk
+[Slides](/static/slides/2013-04-06_loadays-be_interop.pdf) _pdf_
