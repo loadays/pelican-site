@@ -1,5 +1,5 @@
 title: 
-category: workshop
+category: workshop/presentation
 status: hidden
 date: 2013-03-20
 
