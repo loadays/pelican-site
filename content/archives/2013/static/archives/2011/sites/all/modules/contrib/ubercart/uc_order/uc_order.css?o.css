@@ -1,0 +1,242 @@
+/* $Id: uc_order.css,v 1.7.2.5 2010/01/04 15:15:07 islandusurper Exp $ */
+
+.order-overview-form {
+  float: left;
+  padding: 0em 2em 0em 0em;
+}
+
+.order-overview-form .form-item {
+  margin-bottom: 0em;
+}
+
+.order-overview-form #uc-order-select-form, .order-overview-form #uc-order-admin-sort-form {
+  margin-bottom: 0em;
+}
+
+.uc-orders-table {
+  width: 100%;
+  clear: both;
+}
+
+.uc-orders-table thead th {
+  white-space: nowrap;
+}
+
+.uc-orders-table tr.odd:hover, .uc-orders-table tr.even:hover {
+  background-color: #ddd;
+}
+
+.uc-orders-table img {
+  float: left;
+  margin-right: .5em;
+}
+
+.order-admin-icons {
+  margin-left: 2px;
+}
+
+.order-admin-icons img {
+  position: relative;
+  top: 3px;
+  padding: 0px 3px;
+}
+
+.order-pane {
+  border-style: solid;
+  border-color: #bbb;
+  border-width: 1px;
+  padding: .5em;
+  margin: .5em;;
+  width: auto;
+  line-height: 1.1em;
+}
+
+.order-pane thead {
+  background-color: #ddd;
+}
+
+.order-pane tbody {
+  border-top: 0px;
+}
+
+.order-pane-title {
+  font-weight: bold;
+  padding-bottom: .5em;
+}
+
+.pos-left {
+  float: left;
+}
+
+.abs-left {
+  /*float: left;*/
+  clear: left;
+}
+
+.pos-right {
+  float: right;
+}
+
+.abs-right {
+  float: right;
+  clear: right;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.header-wide {
+  width: 80%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.order-pane-table {
+  width: 100%;
+}
+
+.order-pane-table thead th {
+  font-weight: bold;
+  background-color: #ddd;
+  border-style: solid;
+  border-width: 0px 0px 2px 0px;
+  border-color: #bbb;
+  padding: 4px 8px;
+}
+
+.order-pane-table tr {
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #bbb;
+}
+
+.order-pane-table tr.odd td, .order-pane-table tr.even td {
+  padding: 4px 8px;
+}
+
+.order-edit-table {
+  width: auto;
+}
+
+.order-edit-table .oet-label {
+  text-align: right;
+  font-weight: bold;
+}
+
+.order-edit-table .form-item {
+  display: inline;
+}
+
+.address-select-box {
+  background-color: #ddd;
+  border: solid 1px #999;
+  width: auto;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
+
+.customer-select-box {
+  background-color: #ddd;
+  border: solid 1px #999;
+  width: auto;
+  padding: 1em;
+  margin-top: 1em;
+}
+
+.product-select-box {
+  background-color: #ddd;
+  border: solid 1px #999;
+  width: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+}
+
+.product-select-box2 {
+  background-color: #ddd;
+  border: solid 1px #999;
+  width: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+}
+
+.line-item-table {
+  width: 100%;
+}
+
+.line-item-table td {
+  padding: 2px;
+}
+
+.line-item-table .li-title {
+  width: 100%;
+  font-weight: bold;
+  text-align: right;
+}
+
+.line-item-table .li-amount {
+  text-align: right;
+}
+
+.line-item-table .form-item {
+  display: inline;
+}
+
+.order-review-table tbody {
+  border-top: 0px;
+}
+
+.order-pane-table .product-description {
+  font-size: .7em;
+}
+
+/* Move to uc_credit.css eventually... */
+.order-pane #uc-credit-order-view-form {
+  margin-top: .5em;
+  margin-bottom: 0em;
+}
+
+#uc-credit-order-view-form .form-submit {
+  margin: 0em;
+}
+
+.order-pane #uc-order-view-update-form {
+  margin-bottom: 1em;
+}
+
+.update-controls {
+  padding-top: 1em;
+}
+
+.update-controls div {
+  padding-right: 1em;
+}
+
+.update-controls div, .update-controls label {
+  display: inline;
+}
+
+.update-controls .form-submit {
+  margin: 0em;
+}
+
+.address-select-box #uc-order-address-book-form {
+  margin-bottom: 0em;
+}
+
+.order-pane.abs-left .form-submit {
+  margin: 0.5em 0.5em 0.5em 0em;
+}
+
+.order-pane #customer-select form {
+  margin-bottom: 0em;
+}

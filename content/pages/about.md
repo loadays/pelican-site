@@ -19,14 +19,15 @@ Organizers
 -   Kris Buytaert (Inuits)
 -   Robert Keersse (Don Bosco Werken en Leren)
 -   Toshaan Bharvani (VanTosh)
--   Vincent Van der Kussen (BTR Services)
+-   Vincent Van der Kussen (LetterGen)
 
 Archived sites
 --------------
 We created static versions of the sites from the previous editions.
 
-- [2011](../static/archives/2011/index.html)
-- [2012](../static/archives/2012/index.html)
+- [2011](../archives/2011/index.html)
+- [2012](../archives/2012/index.html)
+- [2013](../archives/2013/index.html)
 
 Posters
 -------
@@ -36,7 +37,7 @@ Posters
 <table>
 <tr><td>A4 Format</td><td>A3 Format</td></tr> 
 <tr>
-<td><a href="../static/images/LOAD_affiche_A4_2013.png"><img src="../static/images/LOAD_affiche_2013_thumb.png"/></a></td>
-<td><a href="../static/images/LOAD_affiche_A3_2013.png"><img src="../static/images/LOAD_affiche_2013_thumb.png"/></a></td>
+<td><a href="../images/LOAD_affiche_A4_2014.png"><img src="../images/LOAD_affiche_2013_thumb.png"/></a></td>
+<td><a href="../images/LOAD_affiche_A3_2014.png"><img src="../images/LOAD_affiche_2013_thumb.png"/></a></td>
 </tr>
 </table>
