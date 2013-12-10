@@ -5,8 +5,7 @@ Social media & Contacts
 ------------------------
 
 -   __irc__ : server freenode channel #load
--   __twitter__ : [@loadays](https://twitter.com/loadays) and during the conference we will use the hashtag #load13
--   __identi.ca__ : we have a group called !load, or you can use the hashtag #loadays
+-   __twitter__ : [@loadays](https://twitter.com/loadays) and during the conference we will use the hashtag #load14
 -   __flickr__ : If you make any pictures you want to post to flickr (or another picture site), please use the tag 'loadays'
 
 
