@@ -15,4 +15,12 @@ cipher suites, x509 certificates and why secure does not (always) mean
 secure.
 
 # Bio
-#
+Joshua Thijssen is a freelance consultant, developer and trainer. His
+daily work consists of maintaining code bases, working on different
+projects and helping other to achieve higher standards in both coding
+and thinking. He is the lead developer of Saffire - a web/system
+language, author of the PHP|Architect book "Mastering the SPL library",
+founder of the Dutch Web Alliance and regular speaker at national and
+international conferences.
+
+

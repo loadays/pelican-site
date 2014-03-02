@@ -48,11 +48,11 @@ SPONSORGOLD =   (
 #                    ('Inuits','http://www.inuits.eu/','/static/images/logo_inuits.png'),
 #                    ('Proxy','http://www.proxy.nl/','/static/images/logo_proxy.png'),
                     ('Nucleus','http://www.nucleus.be/','/images/logo_nucleus.png'),
-                    ('Combell','http://www.combell.be/','/images/logo_combell.png'),
+#                    ('Combell','http://www.combell.be/','/images/logo_combell.png'),
                     ('Openminds','http://www.openminds.be/','/images/logo_openminds.jpg'),
 #                    ('Kumina','http://www.kumina.nl/en-gb/home.php','/static/images/logo_kumina.png'),
-#                    ('Kangaroot','http://www.kangaroot.net/','/static/images/logo_kangaroot.png'),
-#                    ('Percona','http://www.percona.com/','/static/images/logo_percona.jpg'),
+                    ('Kangaroot','http://www.kangaroot.net/','/images/logo_kangaroot.png'),
+                    ('Percona','http://www.percona.com/','/images/logo_percona.jpg'),
                 )
 #SPONSORSILVER = (
 #                    ('Red Hat','http://www.redhat.com/','/static/images/logo_redhat.jpg'),
