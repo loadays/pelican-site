@@ -43,17 +43,17 @@ DEFAULT_PAGINATION = False
 STATIC_PATHS = ["archives", "images" , "slides", "CNAME" ]
 
 # Sponsor section
-#SPONSORGOLD =   (
-#                    ('Don Bosco Wilrijk','http://www.donboscowilrijk.be/','/static/images/logo_don_bosco.png'),
+SPONSORGOLD =   (
+                    ('Don Bosco Wilrijk','http://www.donboscowilrijk.be/','/images/logo_don_bosco.png'),
 #                    ('Inuits','http://www.inuits.eu/','/static/images/logo_inuits.png'),
 #                    ('Proxy','http://www.proxy.nl/','/static/images/logo_proxy.png'),
-#                    ('Nucleus','http://www.nucleus.be/','/static/images/logo_nucleus.png'),
-#                    ('Combell','http://www.combell.be/','/static/images/logo_combell.png'),
-#                    ('Openminds','http://www.openminds.be/','/static/images/logo_openminds.jpg'),
+                    ('Nucleus','http://www.nucleus.be/','/images/logo_nucleus.png'),
+                    ('Combell','http://www.combell.be/','/images/logo_combell.png'),
+                    ('Openminds','http://www.openminds.be/','/images/logo_openminds.jpg'),
 #                    ('Kumina','http://www.kumina.nl/en-gb/home.php','/static/images/logo_kumina.png'),
 #                    ('Kangaroot','http://www.kangaroot.net/','/static/images/logo_kangaroot.png'),
 #                    ('Percona','http://www.percona.com/','/static/images/logo_percona.jpg'),
-#                )
+                )
 #SPONSORSILVER = (
 #                    ('Red Hat','http://www.redhat.com/','/static/images/logo_redhat.jpg'),
 #                    ('SuSE','http://www.suse.com/','/static/images/logo_suse.png'),
