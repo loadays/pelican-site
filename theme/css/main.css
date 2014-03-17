@@ -284,7 +284,8 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 1em;
 	/*overflow: hidden;*/
 	padding: 20px;
-	width: 760px;
+	/*width: 760px;*/
+	width: 500px;
 	float: left;
 	
 	border-radius: 10px;
