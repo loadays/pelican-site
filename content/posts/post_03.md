@@ -6,6 +6,7 @@ Slug: LPI at Loadays
 The Linux Professional Institute (LPI) is offering PBT LPI exams at Loadays.
 
 LPI Certifications are globaly accepted certifications that are:
+
 - Designed by a community of Linux professionals, volunteers, vendors
   and educators
 - Challenging: if you don't know the subjects you won't pass
@@ -22,11 +23,11 @@ LPI Certifications are globaly accepted certifications that are:
 - A certification the Linux community can respect and be proud of
 
 At loadays we want to offer certification for:
+
 - Linux Essentials (€ 60,-)
 - LPI 101, 102 (€ 90,-)
 - LPI 201, 202 (€ 90,-)
 - LPI 301 (€150,-)
 - LPI 302, 303, 304 (€90,-)
 
-Registration is possible using this link:
-  https://lpievent.lpice.eu/index.php
+Registration is possible using this link:[https://lpievent.lpice.eu/index.php](https://lpievent.lpice.eu/index.php)
