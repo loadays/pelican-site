@@ -45,9 +45,10 @@
         </header><!-- /#banner -->
         
 	<div id="container">
+        {% include 'sponsors.html' %}
         {% block content %}
         {% endblock %}
-        {% include 'sponsors.html' %}
+        {#{% include 'sponsors.html' %}#}
 	</div>
  	
         <section id="extras" class="body">

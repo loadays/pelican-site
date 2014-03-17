@@ -34,8 +34,9 @@ body {
 }
 
 .sponsors {
-	width: 200px;
+	width: 250px;
 	float: right;
+  margin-top: 50px;
 }
 .sponsors h2 {
 	color: white;
