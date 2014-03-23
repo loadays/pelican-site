@@ -8,7 +8,7 @@ status: hidden
 
 | time          | Room1 | Room2 | Room3 |
 |---------------|-------|-------|-------|
-| 09:15 09:30 | _Introduction_ |
+| 09:15 09:30 | [__Introduction__] |
 | 09:30 10:25 | []() () |[__TUTORIAL: Regular Expressions__]() (Paul Cobbout) | [__TUTORIAL: Introduction to Puppet__ ]()  (Johan De Wit) |
 | 10:30 11:25 | [__MQTT for sysadmins]() () | []() () | [__TUTORIAL: Introduction to Puppet__](.html) (Johan De Wit) |
 | 11:30 12:25 | [__What;s new in OpenLDAP__]() (Howard Chu) | [__Desktop Virtualization with RHEV__]() (Bart Janssens) | [__TUTORIAL: Introduction to Puppet__]() (Johan De Wit) |
