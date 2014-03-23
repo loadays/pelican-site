@@ -30,7 +30,7 @@ MARKUP = [ 'md' , 'rst' , 'html' ]
 THEME = 'content/theme/loadays'
 
 OUTPUT_PATH = "loadays.org/"
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 PATH= ('content/')
 PAGE_DIR = ('pages/')
@@ -55,7 +55,8 @@ SPONSORGOLD =   (
                     ('Percona','http://www.percona.com/','/images/logo_percona.jpg'),
                 )
 SPONSORSILVER = (
-#                    ('Oracle','http://www.oracle.com/','/static/images/logo_oracle.jpg'),
+                    ('Oracle','http://www.oracle.com/','/images/logo_oracle.gif'),
+                    ('O\'Reilly','http://www.oreilly.com/','/images/logo_oreilly.gif'),
 #                    ('Red Hat','http://www.redhat.com/','/static/images/logo_redhat.jpg'),
 #                    ('SuSE','http://www.suse.com/','/static/images/logo_suse.png'),
                 )
