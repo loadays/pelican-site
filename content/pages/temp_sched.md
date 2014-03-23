@@ -10,10 +10,10 @@ status: hidden
 |---------------|-------|-------|-------|
 | 09:15 09:30 | [__Introduction__] |
 | 09:30 10:25 | []() () |[__TUTORIAL: Regular Expressions__]() (Paul Cobbout) | [__TUTORIAL: Introduction to Puppet__ ]()  (Johan De Wit) |
-| 10:30 11:25 | [__MQTT for sysadmins]() () | []() () | [__TUTORIAL: Introduction to Puppet__](.html) (Johan De Wit) |
-| 11:30 12:25 | [__What;s new in OpenLDAP__]() (Howard Chu) | [__Desktop Virtualization with RHEV__]() (Bart Janssens) | [__TUTORIAL: Introduction to Puppet__]() (Johan De Wit) |
+| 10:30 11:25 | [__MQTT for sysadmins__]() (JP Mens) | []() () | [__TUTORIAL: Introduction to Puppet__](.html) (Johan De Wit) |
+| 11:30 12:25 | [__What's new in OpenLDAP__]() (Howard Chu) | [__Desktop Virtualization with RHEV__]() (Bart Janssens) | [__TUTORIAL: Introduction to Puppet__]() (Johan De Wit) |
 | 12:30 13:25 | _Lunch_ |
-| 13:30 14:25 | [__Zabbix Monitoring Solution an overview of the system__]() (Patrik uytterhoeven) | [__Inside Debian Installer___]() (Wouter Verhelst) | [__TUTORIAL: Python for sysadmins__]() (Greg Trahair) |
+| 13:30 14:25 | [__Zabbix Monitoring Solution an overview of the system__]() (Patrik uytterhoeven) | [__Inside Debian Installer__]() (Wouter Verhelst) | [__TUTORIAL: Python for sysadmins__]() (Greg Trahair) |
 | 14:30 15:25 | [__Babel Fish for DevOps__]() (Peter Czanik) | [__Open Source backup with BAREOS__]() (Philipp Storz) | [__TUTORIAL: Python for sysadmins__]() (Greg Trahair) |
 | 15:30 16:25 | [__The first few miliseconds of HTTPS__]() (Joshua Thijssen) | [__Linux HA anno 2014__]() (Julien Pivotto) | [__Config Management with Ansible__]() (JP Mens) |
 | 16:30 16:55 | _Break_ |
