@@ -3,7 +3,7 @@ slug: schedule-temp
 
 [TOC]
 
-##Saturday 6/4/2013
+##Saturday 5/4/2014
 
 | time          | Room1 | Room2 | Room3 |
 |---------------|-------|-------|-------|
@@ -21,7 +21,7 @@ slug: schedule-temp
 | 18:00 22:00 | _Social Event_
 
 
-##Sunday 7/4/2013
+##Sunday 6/4/2014
 
 |time           | Room1 | Room2 | Room3 |
 |---------------|-------|-------|-------|
