@@ -1,4 +1,4 @@
-title: systemd
+title: How systemd will make your life easier
 status: hidden
 category: proposals
 
