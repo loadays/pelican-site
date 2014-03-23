@@ -1,4 +1,4 @@
-title: 
+title: Configuration Management with Ansible 
 status: hidden
 category: proposals
 
