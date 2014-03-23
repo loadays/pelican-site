@@ -14,7 +14,7 @@ status: hidden
 | 11:30 12:25 | [__What's new in OpenLDAP__](whats-new-in-openldap.html) (Howard Chu) | [__Desktop Virtualization with RHEV__](desktop-virtualization-with-rhev.html) (Bart Janssens) | [__TUTORIAL: Introduction to Puppet__](introduction-to-puppet.html) (Johan De Wit) |
 | 12:30 13:25 | _Lunch_ |
 | 13:30 14:25 | [__Zabbix Monitoring Solution an overview of the system__](zabbix-monitoring-solution-an-overview-of-the-system.html) (Patrik uytterhoeven) | [__Inside Debian Installer__](inside-debian-installer-automation-through-preseeding-extending-and-more.html) (Wouter Verhelst) | [__TUTORIAL: Python for sysadmins__](python-for-system-administrators.html) (Greg Trahair) |
-| 14:30 15:25 | [__Babel Fish for DevOps__]() (Peter Czanik) | [__Open Source backup with BAREOS__]() (Philipp Storz) | [__TUTORIAL: Python for sysadmins__](python-for-system-administrators.html) (Greg Trahair) |
+| 14:30 15:25 | [__Babel Fish for DevOps__](babelfish-for-devops-syslog-ng.html) (Peter Czanik) | [__Open Source backup with BAREOS__](open-source-backup-with-bareos.html) (Philipp Storz) | [__TUTORIAL: Python for sysadmins__](python-for-system-administrators.html) (Greg Trahair) |
 | 15:30 16:25 | [__The first few miliseconds of HTTPS__](the-first-few-milliseconds-of-https.html) (Joshua Thijssen) | [__Linux HA anno 2014__](linux-ha-anno-2014.html) (Julien Pivotto) | [__Config Management with Ansible__](configuration-management-with-ansible.html) (JP Mens) |
 | 16:30 16:55 | _Break_ |
 | 17:00 17:55 | [__Open Space__]() () | [__Open Space__]() () | [__Open Space__]() |
