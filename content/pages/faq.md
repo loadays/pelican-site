@@ -11,7 +11,7 @@ Social media & Contacts
 
 Infrastructure
 --------------
-We'll provide internet access for all visitors. Keep in mind that we don't have a state of the art WIFI network.
+We'll provide internet access for all visitors. This year our WiFi network will be sponsored by [http://www.unix-solutions.be/](http://www.unix-solutions.be/). Expect a state of the art WiFi network.
 There will also be a place where you can connect your laptop to the wired network and power outlets. But bring your own cable.
 
 *SSID : LOAD*
