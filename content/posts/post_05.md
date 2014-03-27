@@ -1,5 +1,5 @@
 Date: 2014-03-27
-Title: Provisional schedula
+Title: Schedule
 Tags: loadays
 Slug: loadays_schedule
 
