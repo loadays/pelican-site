@@ -29,11 +29,10 @@ slug: schedule-temp
 |---------------|-------|-------|-------|
 | 09:30 10:25 | [__Babel Fish for DevOps__](babelfish-for-devops-syslog-ng.html) (Peter Czanik) | [__DB Performance for Everybody__]() (Bert Desmet) | [__TUTORIAL: TDD with Puppet__](tdd-with-puppet.html) (Garrett Honeycutt)
 | 10:30 11:25 | [__How Systemd will likely make your life easier__](how-systemd-will-make-your-life-easier.html) (Michael Scherer) | [__Introduction to MongoDB__](introduction-to-mongodb.html) (Wouter Ibens) | [__TUTORIAL: TDD with Puppet__](tdd-with-puppet.html) (Garrett Honeycutt) |
-| 11:30 12:25 | [__ __]() () | [__Systemtap__](system-tab.html) (Marcel Nijenhof) | [__TUTORIAL: TDD with Puppet__](tdd-with-puppet.html) (Garrett Honeycutt) |
+| 11:30 12:25 | [__LDAP Benchmarks and their implications__](ldap-benchmarks-and-their-implications.html) (Jillian  Kozyra) | [__Systemtap__](system-tab.html) (Marcel Nijenhof) | [__TUTORIAL: TDD with Puppet__](tdd-with-puppet.html) (Garrett Honeycutt) |
 | 12:30 13:25 | _Lunch_ |
-| 13:30 14:25 | [__LDAP Benchmarks and their implications__](ldap-benchmarks-and-their-implications.html) (Jillian  Kozyra) | [__Deploy OpenStack the Red Hat way__](deploy-openstack-the-red-hat-way.html) (Francesco Vollero) | [__TUTORIAL: Vagrant__](vagrant-tutorial.html) (Bert Van Vreckem) |
+| 13:30 14:25 |  [__Why MySQL in a Business critical enviromnent__]() (Carsten Thalheimer) | [__Deploy OpenStack the Red Hat way__](deploy-openstack-the-red-hat-way.html) (Francesco Vollero) | [__TUTORIAL: Vagrant__](vagrant-tutorial.html) (Bert Van Vreckem) |
 | 14:30 15:25 | [__Zabbix Monitoring Solution an overview of the system__](zabbix-monitoring-solution-an-overview-of-the-system.html) (Patrik uytterhoeven) | [__Apache Cloudstack in a Nutshell__]() (Wilder Rodrigues) | [__TUTORIAL: Vagrant__](vagrant-tutorial.html) (Bert Van Vreckem) |
 | 15:30 16:55 | _Break_ |
 | 17:00 17:55 | [__Managing and deploying SELinux policies with your cfgmgmt solution__](managing-and-deploying-custom-selinux-policies-with-your-cfgmgmt-solution-ansible-and-puppet-covered.html) (Fabian Arrotin) | [__Opennebula Changelog__](opennebula-changelog.html) (Jaime Melis) | |
 | 18:00 18:15 | _Closing_ |
-
