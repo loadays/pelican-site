@@ -12,7 +12,7 @@ slug: schedule-temp
 | 09:10 09:15 | __Introduction__ |
 | 09:15 09:30 | My first 3 years as a Linux SystemAdmin (Dave Simons) |
 | 09:30 10:25 | [__Configuration Management with Puppet__](configuration-management-with-puppet.html) (Christophe Vanlancker) | [__ __]() () | [__TUTORIAL: Introduction to Puppet__ ](introduction-to-puppet.html)  (Johan De Wit) |
-| 10:30 11:25 | [__Config Management with Ansible__](configuration-management-with-ansible.html) (JP Mens) | [__ __]() () | [__TUTORIAL: Introduction to Puppet__](introduction-to-puppet.html) (Johan De Wit) |
+| 10:30 11:25 | [__Config Management with Ansible__](configuration-management-with-ansible.html) (JP Mens) |[__LDAP Benchmarks and their implications__](ldap-benchmarks-and-their-implications.html) (Jillian  Kozyra) | [__TUTORIAL: Introduction to Puppet__](introduction-to-puppet.html) (Johan De Wit) |
 | 11:30 12:25 | [__Ansible, why and how I use it__]() (Ton Kersten) | [__Desktop Virtualization with RHEV__](desktop-virtualization-with-rhev.html) (Bart Janssens) | [__TUTORIAL: Introduction to Puppet__](introduction-to-puppet.html) (Johan De Wit) |
 | 12:30 13:25 | _Lunch_ |
 | 13:30 14:25 | [__What's new in OpenLDAP__](whats-new-in-openldap.html) (Howard Chu) | [__Inside Debian Installer__](inside-debian-installer-automation-through-preseeding-extending-and-more.html) (Wouter Verhelst) | [__TUTORIAL: Python for sysadmins__](python-for-system-administrators.html) (Greg Trahair) |
@@ -29,7 +29,7 @@ slug: schedule-temp
 |---------------|-------|-------|-------|
 | 09:30 10:25 | [__Babel Fish for DevOps__](babelfish-for-devops-syslog-ng.html) (Peter Czanik) | [__DB Performance for Everybody__]() (Bert Desmet) | [__TUTORIAL: TDD with Puppet__](tdd-with-puppet.html) (Garrett Honeycutt)
 | 10:30 11:25 | [__How Systemd will likely make your life easier__](how-systemd-will-make-your-life-easier.html) (Michael Scherer) | [__Introduction to MongoDB__](introduction-to-mongodb.html) (Wouter Ibens) | [__TUTORIAL: TDD with Puppet__](tdd-with-puppet.html) (Garrett Honeycutt) |
-| 11:30 12:25 | [__LDAP Benchmarks and their implications__](ldap-benchmarks-and-their-implications.html) (Jillian  Kozyra) | [__Systemtap__](system-tab.html) (Marcel Nijenhof) | [__TUTORIAL: TDD with Puppet__](tdd-with-puppet.html) (Garrett Honeycutt) |
+| 11:30 12:25 |  | [__Systemtap__](system-tab.html) (Marcel Nijenhof) | [__TUTORIAL: TDD with Puppet__](tdd-with-puppet.html) (Garrett Honeycutt) |
 | 12:30 13:25 | _Lunch_ |
 | 13:30 14:25 |  [__Why MySQL in a Business critical enviromnent__]() (Carsten Thalheimer) | [__Deploy OpenStack the Red Hat way__](deploy-openstack-the-red-hat-way.html) (Francesco Vollero) | [__TUTORIAL: Vagrant__](vagrant-tutorial.html) (Bert Van Vreckem) |
 | 14:30 15:25 | [__Zabbix Monitoring Solution an overview of the system__](zabbix-monitoring-solution-an-overview-of-the-system.html) (Patrik uytterhoeven) | [__Apache Cloudstack in a Nutshell__]() (Wilder Rodrigues) | [__TUTORIAL: Vagrant__](vagrant-tutorial.html) (Bert Van Vreckem) |
