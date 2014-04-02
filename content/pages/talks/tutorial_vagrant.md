@@ -9,21 +9,27 @@ To achieve its magic, Vagrant stands on the shoulders of giants. Machines are pr
 
 This tutorial will highlight the following topics
 
-- Introduction to Vagrant, setting up a new box
+- Introduction to Vagrant
+- Setting up boxes, finding and using base boxes
 - Configuring Vagrant boxes (Vagrantfile)
-- Provisioning Vagrant boxes
+- Provisioning
+    - Shell
     - Puppet
     - Ansible
 - Tips and tricks
-- Getting base boxes
 - Creating custom base boxes with Packer
 
 If you want to follow along, it's highly recommended to have following software installed in advance:
 
-- VirtualBox - https://www.virtualbox.org/
-- Vagrant - http://www.vagrantup.com/
-- Download this CentOS base box: http://packages.vstone.eu/vagrant-boxes/centos-6.x-64bit-latest.box
+- Git
+- VirtualBox (4.3.x) - https://www.virtualbox.org/
+- Vagrant (1.5.x) - http://www.vagrantup.com/
+- Initialise the base box 'alphainternational/centos-6.5-x64' so you don't have to download it via the conference wifi: `vagrant box add alphainternational/centos-6.5-x64`
 
+# presentation
+
+- Slides: https://github.com/bertvv/vagrant-presentation
+- Demo/Example: https://github.com/bertvv/vagrant-example
 
 # bio
 Bert Van Vreckem - <bert.vanvreckem@hogent.be>, [@bertvanvreckem](https://twitter.com/bertvanvreckem)
