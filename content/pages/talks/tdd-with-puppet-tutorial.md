@@ -14,8 +14,10 @@ Must be familiar with Puppet and have experience writing modules.
 
 ## Tech requirements
 
-Tutorial is hands on and requires a laptop. VM's will be provided,
-though the attendee can use their Linux or OSX based system.
+Tutorial is hands on and requires a laptop. Attendees can use their Linux or
+OSX based system or use Vagrant.
+
+[https://github.com/ghoneycutt/learnpuppet-tdd-vagrant](https://github.com/ghoneycutt/learnpuppet-tdd-vagrant)
 
 ## Outline
 
