@@ -1,6 +1,6 @@
-Date: 2013-12-02                                                                                               
-Title: Loadays is a GO
+Date: 2014-12-28
+Title: Loadays 2015 is a GO!
 Tags: loadays
-Slug: Loadays 2014 is a GO! 
+Slug: Loadays 2015 is a GO!
 
-LOAD2014 is a GO!
+LOAD 2015 is a GO!

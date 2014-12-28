@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LOADays</title><link>/</link><description></description><atom:link href="/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 04 Apr 2014 00:00:00 +0200</lastBuildDate><item><title>Roadworks</title><link>/update_roadblock.html</link><description>&lt;p&gt;Some practical information for people coming by car. The &lt;a href="http://en.wikipedia.org/wiki/A12_road_%28Belgium%29"&gt;A12&lt;/a&gt; motorway will be closed during the Loadays weekend. 
+People coming from Brussels direction Antwerp better take the E19 highway. More info can be found &lt;a href="http://www.wegenenverkeer.be/wegenwerken/werven-snelwegen/vlaams-brabant/item/a12-londerzeel-werken-aan-de-spoorwegbrug-en-de-brug-over-de-mechelsestraat-2.html?category_id=231"&gt;here&lt;/a&gt; (Dutch).&lt;/p&gt;
+&lt;p&gt;Translated : &lt;a href="http://www.google.com/translate?hl=en&amp;amp;ie=UTF8&amp;amp;sl=nl&amp;amp;tl=en&amp;amp;u=http%3A%2F%2Fwww.wegenenverkeer.be%2Fwegenwerken%2Fwerven-snelwegen%2Fvlaams-brabant%2Fitem%2Fa12-londerzeel-werken-aan-de-spoorwegbrug-en-de-brug-over-de-mechelsestraat-2.html%3Fcategory_id%3D231"&gt;link&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Fri, 04 Apr 2014 00:00:00 +0200</pubDate><guid>tag:,2014-04-04:update_roadblock.html</guid><category>loadays</category></item><item><title>New Updates</title><link>/final_updates_2014.html</link><description>&lt;p&gt;LOADays is a free open source event. You do &lt;em&gt;not&lt;/em&gt; need to register, announce that you are coming.
+However you might want to inform to the world about our event.&lt;/p&gt;
+&lt;p&gt;The Build-your-own-OpenNebula-Cloud day is on Monday 7/4/2014 is also a free open source tutorial day held just after LOADays.
+While we appreciate that you register before hand, again this is &lt;em&gt;not&lt;/em&gt; a requirement, it just makes our life easier.&lt;/p&gt;
+&lt;p&gt;For the speakers, please not that you should have received a mail relating to :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hotel reservations&lt;/li&gt;
+&lt;li&gt;Speakers dinner&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Please take a look at our still provisional schedule online. Check it out :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://loadays.org/pages/schedule-temp.html"&gt;Loadays 2014 schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notice: the schedule will still change&lt;/strong&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Wed, 02 Apr 2014 00:00:00 +0200</pubDate><guid>tag:,2014-04-02:final_updates_2014.html</guid><category>loadays</category></item><item><title>Schedule</title><link>/loadays_schedule.html</link><description>&lt;p&gt;We have got a provisional schedule online. Check it out :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://loadays.org/pages/schedule-temp.html"&gt;Loadays 2014 schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;notice: the schedule is still subject to change.&lt;/strong&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate><guid>tag:,2014-03-27:loadays_schedule.html</guid><category>loadays</category></item><item><title>Build your OpenNebula Cloud Day</title><link>/opennebula_cloud_day.html</link><description>&lt;p&gt;After LOADays, on Monday 07/04/2014, we organize a tutorial and image session for OpenNebula.&lt;br /&gt;
+This is a free event, we recommend to register as seats are limited and we want to anticipate the number of participants.&lt;/p&gt;
+&lt;h1 id="schedule"&gt;SCHEDULE&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Timing&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:30 - 13:30&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;OpenNebula Tutorial&lt;/strong&gt; (Jaime Melis)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30 - 14:30&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;LUNCH&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:30 - 17:30&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;OpenNebula Cloud Image Creation/Hack Session&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:30 - 18:00&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;CLOSING&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Registration is possible using this link : &lt;a href="http://load2014opennebuladay.eventbrite.com"&gt;http://load2014opennebuladay.eventbrite.com&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Sun, 23 Mar 2014 00:00:00 +0100</pubDate><guid>tag:,2014-03-23:opennebula_cloud_day.html</guid><category>loadays</category></item><item><title>LPI at Loadays</title><link>/LPI%20at%20Loadays.html</link><description>&lt;p&gt;The Linux Professional Institute (LPI) is offering PBT LPI exams at Loadays.&lt;/p&gt;
+&lt;p&gt;LPI Certifications are globaly accepted certifications that are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed by a community of Linux professionals, volunteers, vendors
+  and educators&lt;/li&gt;
+&lt;li&gt;Challenging: if you don't know the subjects you won't pass&lt;/li&gt;
+&lt;li&gt;Accessible and available at thousands of test centres around the world
+  or at special events&lt;/li&gt;
+&lt;li&gt;Of high quality: relying on critical input from numerous Linux experts
+  and employing scientific and industry-recognized psychometric
+  processes&lt;/li&gt;
+&lt;li&gt;Distribution-neutral: verifying knowledge on any standard Linux system&lt;/li&gt;
+&lt;li&gt;Relevant: surveying thousands to determine the skills that need to be
+  tested&lt;/li&gt;
+&lt;li&gt;Supported and sponsored by a large number of Linux companies and
+  projects&lt;/li&gt;
+&lt;li&gt;A certification the Linux community can respect and be proud of&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At loadays we want to offer certification for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux Essentials (€ 60,-)&lt;/li&gt;
+&lt;li&gt;LPI 101, 102 (€ 90,-)&lt;/li&gt;
+&lt;li&gt;LPI 201, 202 (€ 90,-)&lt;/li&gt;
+&lt;li&gt;LPI 301 (€150,-)&lt;/li&gt;
+&lt;li&gt;LPI 302, 303, 304 (€90,-)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Registration is possible using this link:&lt;a href="https://lpievent.lpice.eu/index.php"&gt;https://lpievent.lpice.eu/index.php&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Mon, 17 Mar 2014 00:00:00 +0100</pubDate><guid>tag:,2014-03-17:LPI at Loadays.html</guid><category>loadays</category></item><item><title>Loadays CFP 2014</title><link>/Loadays%202014%20CFP.html</link><description>&lt;p&gt;After a successful forth edition of LOAD, the crew decided to organize a fifth edition.&lt;/p&gt;
+&lt;p&gt;You are invited to submit a proposal to participate in the 2014 Linux Open Administration Days in Wilrijk, Belgium on &lt;strong&gt;April 5 and 6th 2014&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;More info about how to submit your proposal can be found &lt;a href="http://loadays.org/pages/call-for-presentation.html"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;Linux Open Administration Days&lt;/em&gt;&lt;/strong&gt; is a conference focusing on Linux and Open Administration/engineering. We are trying to fill a gap for System Engineers and Administrators using Open Source technologies.&lt;/p&gt;
+&lt;p&gt;Now go and submit that proposal!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Mon, 09 Dec 2013 00:00:00 +0100</pubDate><guid>tag:,2013-12-09:Loadays 2014 CFP.html</guid><category>loadays</category></item><item><title>Loadays is a GO</title><link>/Loadays%202014%20is%20a%20GO!.html</link><description>&lt;p&gt;LOAD2014 is a GO!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate><guid>tag:,2013-12-02:Loadays 2014 is a GO!.html</guid><category>loadays</category></item></channel></rss>
