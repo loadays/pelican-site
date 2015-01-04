@@ -1,0 +1,18 @@
+language: python
+branches:
+  only:
+  - master
+install:
+- git config --global user.email "vincent@vanderkussen.org"
+- git config --global user.name "vincentvdk"
+- pip install pelican ghp-import Markdown
+script:
+- make publish github
+env:
+  global:
+    secure: SZHd+AhGdJ2Q24XynCO4jSI/3V0s2rsjaoKRwF9xrfMqmyywJFjAkSdw48zQmcPncfArvtamivBeceS9mvKrKwTElO7ZG1FyO0whpL5oeujF/kFtbCUPhy+s6ZINd8HyXEv6JRXhlMGMMUYni1u4iTub6pRU9Z6XmkyIysW7ZQU=
+notifications:
+  irc:
+    channels:
+      - "irc.freenode.org#load"
+    on_success: change

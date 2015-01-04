@@ -29,7 +29,7 @@ MARKUP = [ 'md' , 'rst' , 'html' ]
 #THEME = 'loadays'
 THEME = 'content/theme/loadays'
 
-OUTPUT_PATH = "loadays.org/"
+OUTPUT_PATH = "output/"
 DELETE_OUTPUT_DIRECTORY = False
 
 PATH= ('content/')
