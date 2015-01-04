@@ -1,6 +1,6 @@
 Loadays Pelican based website
 =============================
 
-Loadays.org source
+Loadays.org website source
 
 
