@@ -21,5 +21,5 @@ Using a Pull request by following the next steps :
 
 -   Fork this site or the pelican-site repo at [https://github.com/loadays/pelican-site](https://github.com/loadays/pelican-site)
 -   Add your proposal to the content/proposals dir. A "testtalk" is available
-    as template.
+    as template _(template.md)_.
 -   Send us a Pull Request
