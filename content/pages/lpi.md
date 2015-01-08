@@ -5,7 +5,7 @@ status: hidden
 Linux Professional Institute (LPI) want's to offer PBT LPI exams at
 loadays.
 
-LPI Certifications are globaly accepted certifications that are:
+LPI Certifications are globally accepted certifications that are:
 
 - Designed by a community of Linux professionals, volunteers, vendors
   and educators
