@@ -35,7 +35,7 @@ SPONSORGOLD =   (
 #                    ('Combell','http://www.combell.be/','/images/logo_combell.png'),
 #                    ('Openminds','http://www.openminds.be/','/images/logo_openminds.jpg'),
 #                    ('Kumina','http://www.kumina.nl/en-gb/home.php','/static/images/logo_kumina.png'),
-                    ('Kangaroot','http://www.kangaroot.net/','/images/logo_kangaroot.png')
+                    ('Kangaroot','http://www.kangaroot.net/','/images/logo_kangaroot.png'),
 #                    ('Percona','http://www.percona.com/','/images/logo_percona.jpg'),
                 )
 SPONSORSILVER = (
