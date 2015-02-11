@@ -28,7 +28,7 @@ STATIC_PATHS = ["archives", "images" , "slides", "CNAME" ]
 
 # Sponsor section
 SPONSORGOLD =   (
-#                    ('Don Bosco Wilrijk','http://www.donboscowilrijk.be/','/images/logo_don_bosco.png'),
+                    ('Don Bosco Wilrijk','http://www.donboscowilrijk.be/','/images/logo_don_bosco.png'),
 #                    ('Inuits','http://www.inuits.eu/','/images/logo_inuits.png'),
 #                    ('Proxy','http://www.proxy.nl/','/static/images/logo_proxy.png'),
 #                    ('Nucleus','http://www.nucleus.be/','/images/logo_nucleus.png'),
