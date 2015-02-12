@@ -5,7 +5,7 @@ Slug: Loadays 2015 CFP
 
 After a successful fifth edition of LOAD, the crew decided to organize a sixth edition.
 
-You are invited to submit a proposal to participate in the 2014 Linux Open Administration Days in Wilrijk, Belgium on __April 11 and 12 2015__.
+You are invited to submit a proposal to participate in the 2015 Linux Open Administration Days in Wilrijk, Belgium on __April 11 and 12 2015__.
 
 
 More info about how to submit your proposal can be found [here](http://loadays.org/pages/call-for-presentation.html)
