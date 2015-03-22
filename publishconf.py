@@ -34,7 +34,7 @@ SPONSORGOLD =   (
 #                    ('Nucleus','http://www.nucleus.be/','/images/logo_nucleus.png'),
 #                    ('Combell','http://www.combell.be/','/images/logo_combell.png'),
 #                    ('Openminds','http://www.openminds.be/','/images/logo_openminds.jpg'),
-                    ('Trilands','http://www.trilands.be/','/static/images/logo_trilands.png'),
+                    ('Trilands','http://www.trilands.be/','/images/logo_trilands.png'),
                     ('Kangaroot','http://www.kangaroot.net/','/images/logo_kangaroot.png'),
                     ('Percona','http://www.percona.com/','/images/logo_percona.jpg'),
                 )
