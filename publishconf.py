@@ -34,18 +34,18 @@ SPONSORGOLD =   (
 #                    ('Nucleus','http://www.nucleus.be/','/images/logo_nucleus.png'),
 #                    ('Combell','http://www.combell.be/','/images/logo_combell.png'),
 #                    ('Openminds','http://www.openminds.be/','/images/logo_openminds.jpg'),
-#                    ('Kumina','http://www.kumina.nl/en-gb/home.php','/static/images/logo_kumina.png'),
+                    ('Trilands','http://www.trilands.be/','/static/images/logo_trilands.png'),
                     ('Kangaroot','http://www.kangaroot.net/','/images/logo_kangaroot.png'),
                     ('Percona','http://www.percona.com/','/images/logo_percona.jpg'),
                 )
 SPONSORSILVER = (
- #                   ('Oracle','http://www.oracle.com/','/images/logo_oracle.gif'),
- #                   ('O\'Reilly','http://www.oreilly.com/','/images/logo_oreilly.gif'),
+                    ('VanTosh','http://www.vantosh.com/','/images/logo_vantosh.png'),
+#                    ('O\'Reilly','http://www.oreilly.com/','/images/logo_oreilly.gif'),
 #                    ('Red Hat','http://www.redhat.com/','/static/images/logo_redhat.jpg'),
 #                    ('SuSE','http://www.suse.com/','/static/images/logo_suse.png'),
                 )
 SPONSORBRONZE = (
-#                    ('VanTosh','http://www.vantosh.com/','/images/logo_vantosh.png'),
+                    ('Oracle','http://www.oracle.com/','/images/logo_oracle.gif'),
 #                    ('Symas','http://www.symas.com/','/static/images/logo_symas.png'),
                     ('IT Partners','','/images/logo_itpartners.png'),
 #                    ('Open Future','http://www.open-future.be/','/images/logo_openfuture.png'),
