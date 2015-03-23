@@ -2,7 +2,7 @@ Title: Call for Presentation
 Status: hidden
 
 ## LOADays Call-for-Presentation 2015 ##
-The CFP is open until __15th of March__.
+The CFP is open until __3rd of April__.
 
 
 ## How to submit your talk proposal?##
