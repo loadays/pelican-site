@@ -40,6 +40,7 @@ SPONSORGOLD =   (
                 )
 SPONSORSILVER = (
                     ('VanTosh','http://www.vantosh.com/','/images/logo_vantosh.png'),
+                    ('Skyscrapers','http://skyscrapers.eu/','/images/logo_skyscrapers.png'),
 #                    ('O\'Reilly','http://www.oreilly.com/','/images/logo_oreilly.gif'),
 #                    ('Red Hat','http://www.redhat.com/','/static/images/logo_redhat.jpg'),
 #                    ('SuSE','http://www.suse.com/','/static/images/logo_suse.png'),
