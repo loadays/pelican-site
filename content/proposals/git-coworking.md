@@ -1,4 +1,5 @@
 title: Coworking with git
+status: hidden
 category: proposals
 
 

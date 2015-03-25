@@ -1,4 +1,5 @@
 title: MQTT for monitoring (and for the IoT)
+status: hidden
 category: proposals
 
 # Abstract

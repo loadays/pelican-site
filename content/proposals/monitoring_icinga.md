@@ -1,4 +1,5 @@
 title: Open Source Monitoring with Icinga
+status: hidden
 category: proposals
 
  # Abstract

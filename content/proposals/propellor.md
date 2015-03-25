@@ -1,4 +1,5 @@
 title: Propellor: host configuration management in Haskell
+status: hidden
 category: proposals
 
  # Abstract

@@ -1,5 +1,6 @@
 title: syslog-ng: from log collecting to log processing and information
 extraction
+status: hidden
 category: proposals
 
  # Abstract

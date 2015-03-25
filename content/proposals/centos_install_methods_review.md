@@ -1,4 +1,5 @@
 title: CentOS Install methods review
+status: hidden
 category: proposals
 
 # abstract:
