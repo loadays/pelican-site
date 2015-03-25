@@ -1,5 +1,4 @@
-title: Running Docker and Containers without migrating to systemd by using
-Oracle Linux 6
+title: Running Docker and Containers without migrating to systemd by using Oracle Linux 6
 status: hidden
 category: proposals
 
