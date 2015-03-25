@@ -14,7 +14,7 @@ status: hidden
 |11:05 - 11:45  | [_Coworking with Git_](git_coworking.html)                                  |  [_MYSQL/MariaDB_]()                                        |                       |
 |11:45 - 12:25  |                                                                             |  [_MYSQL/MariaDB_]()                                        |                       |
 |12:30 - 13:25  |  LUNCH                                                                      |   LUNCH                                                     |   LUNCH               |
-|13:30 - 14:25  | [_CentOS install methods_](centos_installation_methods.html)                |                                                             |                       |
+|13:30 - 14:25  | [_CentOS install methods_](centos_install_methods.html)                |                                                             |                       |
 |14:30 - 15:25  | [_Service Discovery and config management_](service_discovery_cfgmgmt.html) | [_Propellor_](propellor.html)                               |
 |15:30 - 16:25  | [_OpenHAB Intro_](openhab_intro.html)                                       | [_containers with systemd nspawn_](containers_nspawn.html)  |
 |16:30 - 16:55  | BREAK                                                                       | BREAK                             |
