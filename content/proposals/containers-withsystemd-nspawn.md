@@ -1,5 +1,4 @@
 title: Containers with systemd-nspawn
-status: hidden
 category: proposals
 
  # Abstract

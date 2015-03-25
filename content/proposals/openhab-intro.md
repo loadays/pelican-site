@@ -1,5 +1,4 @@
 title: A small introduction to OpenHAB
-status: hidden
 category: proposals
 
 # Abstract

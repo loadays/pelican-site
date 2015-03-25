@@ -1,11 +1,6 @@
 title: Coworking with git
-status: hidden
 category: proposals
 
-<!---
-Side note: I will not be able to come on Sunday. If you accept this talk please
-schedule it on Saturday.
--->
 
  # Abstract
 
