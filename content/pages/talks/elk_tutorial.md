@@ -13,5 +13,9 @@ In this tutorial I would explain the following:
 - Some general mistakes that people can make
 - How to search and visualise in Kibana
 
+**Practical Info:**
+People should have vagrant installed (and working !) and I will provide the
+boxes and the Vagrant files.
+
  # Bio
 
