@@ -1,4 +1,5 @@
 title: Service discovery and configuration management
+slug: service_discovery_cfgmgmt
 status: hidden
 category: proposals
 

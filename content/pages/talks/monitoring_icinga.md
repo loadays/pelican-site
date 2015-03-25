@@ -1,4 +1,5 @@
 title: Open Source Monitoring with Icinga
+slug: icinga_monitoring
 status: hidden
 category: proposals
 

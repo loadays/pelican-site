@@ -1,4 +1,5 @@
 title: syslog-ng from log collecting to log processing and information extraction
+slug: syslog_ng
 status: hidden
 category: proposals
 

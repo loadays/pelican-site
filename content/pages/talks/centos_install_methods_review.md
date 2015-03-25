@@ -1,4 +1,5 @@
 title: CentOS Install methods review
+slug: centos_install_methods
 status: hidden
 category: proposals
 

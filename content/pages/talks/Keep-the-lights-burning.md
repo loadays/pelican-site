@@ -1,4 +1,5 @@
 title: Keep the Lights Burning
+slug: keep_lights_burning
 status: hidden
 category: proposals
 

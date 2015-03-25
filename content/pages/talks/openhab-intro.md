@@ -1,4 +1,5 @@
 title: A small introduction to OpenHAB
+slug: openhab_intro
 status: hidden
 category: proposals
 
