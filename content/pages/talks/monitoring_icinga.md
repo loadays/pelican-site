@@ -3,7 +3,8 @@ slug: icinga_monitoring
 status: hidden
 category: proposals
 
- # Abstract
+# Abstract
+
 Most sys admins have a love-hate relationship with Icinga/Nagios based
 monitoring solutions. Utilitarian and backed by a sizable community, users have
 learned to live with shortcomings in scaling, configuration and integration with
@@ -22,14 +23,15 @@ easier than ever before. In addition to that we’ll introduce the new Icinga We
 2 interface and give a brief introduction into the technical architecture. A
 live demo will follow and well as a look into development plans to come.
 
- # Bio
- Bernd Erk, is co-founder and project organiser of the Icinga project that has
- been busy improving the forked Nagios code base since 2009.
+# Bio
 
- In his day job as Managing Director of NETWAYS he overseas success and
- smooth operation of all customer projects and business processes. His
- technical expertise stretches across Systems Management, Managed Services and
- Software Development. A contributor to Linux Magazine and Linux Technical
- Review in Germany, Bernd regularly publishes articles and presents on open
- source topics ranging across monitoring, virtualization, databases and
- performance tuning among others.
+Bernd Erk, is co-founder and project organiser of the Icinga project that has
+been busy improving the forked Nagios code base since 2009.
+
+In his day job as Managing Director of NETWAYS he overseas success and
+smooth operation of all customer projects and business processes. His
+technical expertise stretches across Systems Management, Managed Services and
+Software Development. A contributor to Linux Magazine and Linux Technical
+Review in Germany, Bernd regularly publishes articles and presents on open
+source topics ranging across monitoring, virtualization, databases and
+performance tuning among others.

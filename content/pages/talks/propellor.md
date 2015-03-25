@@ -3,7 +3,8 @@ slug: propellor
 status: hidden
 category: proposals
 
- # Abstract
+# Abstract
+
 Propellor is a declarative host configuration management system by Joey Hess.
 Each system has a set of of properties, which propellor makes sure are
 satisfied.
@@ -17,8 +18,9 @@ but you do not have to be a Haskell expert to use it.
 
 https://propellor.branchable.com/
 
- # Bio
- Jelmer Vernooij is a long-time member of the global Samba team, a
- loose-knit group of about thirty people who contribute regularly to
- Samba. He also regularly contributors to other projects such as
- OpenChange, Debian and Ubuntu.
+# Bio
+
+Jelmer Vernooij is a long-time member of the global Samba team, a
+loose-knit group of about thirty people who contribute regularly to
+Samba. He also regularly contributors to other projects such as
+OpenChange, Debian and Ubuntu.
