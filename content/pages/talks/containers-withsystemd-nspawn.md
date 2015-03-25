@@ -1,4 +1,5 @@
 title: Containers with systemd-nspawn
+slug: containers_nspawn
 status: hidden
 category: proposals
 
