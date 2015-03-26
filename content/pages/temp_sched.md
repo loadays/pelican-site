@@ -1,6 +1,7 @@
 title: Schedule
 slug: schedule-temp
-status: hidden
+
+**This schedule is still subject to change and NOT finalized**
 
 [TOC]
 
