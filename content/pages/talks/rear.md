@@ -3,7 +3,8 @@ slug: rear_bareos
 status: hidden
 category: proposals
 
- # Abstract
+# Abstract
+
 Business Continuity (BC) Management is often confused with Disaster Recovery
 (DR) Planning as often BC steps are mentioned as part of a DR handbook.
 During this talk we will highlight what BC is all about and how to get started
@@ -15,7 +16,8 @@ you need to foresee a recovery plan for it as well.
 To fill that gab you could use a disaster recovery tool such as
 Relax-and-Recover (rear) to restore the Bareos server from bare-metal.
 
- # Bio
+# Bio
+
 Gratien D'haese is a Belgian independent IT Consultant who is already 25
 years active in the Unix world (and with Linux since its invention in 1991).
 Gratien has a broad experience with UNIX in general, UNIX security, UNIX
