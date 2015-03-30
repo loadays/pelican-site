@@ -3,7 +3,7 @@ status: hidden
 category: proposals
 
 
- # Abstract
+# Abstract
 
 Yet another git talk at LOADays. This talk will not be an introduction to git,
 but will show some more advanced techniques useful when working with several
@@ -12,7 +12,7 @@ people.
 Those techniques include rebasing, squashing, branching. I will also give some
 other advices and best practices around git.
 
- # Bio
+# Bio
 
 Julien Pivotto is a young Open-Source consultant at Inuits where he is helping
 organisations with the deployment of long-term solutions based on Open-Source

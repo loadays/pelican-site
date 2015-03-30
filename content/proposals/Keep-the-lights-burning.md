@@ -4,7 +4,7 @@ category: proposals
 
 # Abstract
 
-A little more than a ago my doctor told me I was suffering from a burnout. Starting from that moment I spend a lot of time reading, learning and investing in my health. In this talk I will focus on my journey and how we as engineers can improve our general health and well-being to keep happy and productive.
+A little more than a ago my doctor told me I was suffering from a burnout.Starting from that moment I spend a lot of time reading, learning and investing in my health. In this talk I will focus on my journey and how we as engineers can improve our general health and well-being to keep happy and productive.
 
 # Bio
 

@@ -2,7 +2,8 @@ title: ELK stack tutorial
 status: hidden
 category: proposals
 
- # Abstract
+# Abstract
+
 In this tutorial I would explain the following:
 
 - The big picture
@@ -13,5 +14,5 @@ In this tutorial I would explain the following:
 - Some general mistakes that people can make
 - How to search and visualise in Kibana
 
- # Bio
+# Bio
 
