@@ -18,19 +18,19 @@ slug: schedule-temp
 |13:30 - 14:25  | [_MQTT for monitoring_](mqtt_monitoring.html) (Jan-Piet Mens)                                    |                                                                           |                                              |
 |14:30 - 15:25  | [_OpenHAB Intro_](openhab_intro.html) (Jan-Piet Mens)                                            | [_Running Docker and Containers without migrating to systemd by using Oracle Linux 6_](docker_oracle.html) (Lucian Preoteasa)|  |
 |15:30 - 16:25  | [_CentOS install methods_](centos_install_methods.html)(Fabian Arrotin)                          | [_containers with systemd nspawn_](containers_nspawn.html) (Gábor Nyers)  |                                              |
-|16:30 - 16:55  | **BREAK**                                                                                                                     | **BREAK**                                                                 | **BREAK**             |
-|17:00 - 18:00  | BoF                                                                                                                           | BoF                                                                       | BoF                   |
+|16:30 - 16:55  | **BREAK**                                                                                        | **BREAK**                                                                 | **BREAK**             |
+|17:00 - 18:00  | BoF                                                                                              | BoF                                                                       | BoF                   |
 |18:00 - 21:00  | Social Event |
 
 ##Sunday 12/4/2015
 
-| Time          | Room1                                                                       | Room2                                                                                                         | Room3      |
-|---------------|---------------------------------------------- ------------------------------|---------------------------------------------------------------------------------------------------------------|------------|
-|09:30 - 10:25  |                                                                             |                                                                                                               |            |
-|10:30 - 11:25  | [_Propellor_](propellor.html) (Jelmer Vernooij)                             |[_syslog-ng: from log collecting to log processing and information extraction_](syslog_ng.html) (Péter Czanik) |            |
-|11:30 - 12:25  | [_open source monitoring with Icinga_](icinga_monitoring.html)(Bernd Erk)   |[_Using Belgium EID under Linux_](beid_linux.html) (Wouter Verhelst)                                           |            |
-|12:30 - 13:25  | **LUNCH**                                                                   | **LUNCH**                                                                                                     |**LUNCH     |
-|13:30 - 14:25  | [_ELK Stack Tutorial_]() (Lee Van Steerthem)                                |  [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)                                                  |[_Building a Business Continuity Plan with Bareos and rear_]() (Gratien Dhaese)        |
-|14:30 - 15:25  | [_ELK Stack Tutorial_]() (Lee Van Steerthem)                                |  [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)                                                  |            |
-|15:30 - 16:55  | BREAK                                                                       | BREAK                                                                                                         | BREAK      |
-|17:00 - 17:55  | Open space                                                                  | Open sapce                                                                                                    | Open space |
+| Time          | Room1                                                                       | Room2                                                                                                          | Room3      |
+|---------------|---------------------------------------------- ------------------------------|----------------------------------------------------------------------------------------------------------------|------------|
+|09:30 - 10:25  |                                                                             |                                                                                                                |            |
+|10:30 - 11:25  | [_Propellor_](propellor.html) (Jelmer Vernooij)                             | [_syslog-ng: from log collecting to log processing and information extraction_](syslog_ng.html) (Péter Czanik) |            |
+|11:30 - 12:25  | [_open source monitoring with Icinga_](icinga_monitoring.html)(Bernd Erk)   | [_Using Belgium EID under Linux_](beid_linux.html) (Wouter Verhelst)                                           |               |
+|12:30 - 13:25  | **LUNCH**                                                                   | **LUNCH**                                                                                                      | **LUNCH**     |
+|13:30 - 14:25  | [_ELK Stack Tutorial_]() (Lee Van Steerthem)                                | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)                                                    | [_Building a Business Continuity Plan with Bareos and rear_]() (Gratien Dhaese)        |
+|14:30 - 15:25  | [_ELK Stack Tutorial_]() (Lee Van Steerthem)                                | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)                                                    |            |
+|15:30 - 16:55  | BREAK                                                                       | BREAK                                                                                                          | BREAK      |
+|17:00 - 17:55  | Open space                                                                  | [_Whats the new Sattelite_]() (Maxim Burgerhout)                                                               | Open space |
