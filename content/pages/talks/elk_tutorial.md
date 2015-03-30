@@ -3,7 +3,7 @@ slug: elk_tut
 status: hidden
 category: proposals
 
- # Abstract
+# Abstract
 In this tutorial I would explain the following:
 
 - The big picture
@@ -18,5 +18,7 @@ In this tutorial I would explain the following:
 People should have vagrant installed (and working !) and I will provide the
 boxes and the Vagrant files.
 
- # Bio
+# Bio
+Linux Infrastructure Coordinator at Collibra - Interested with everything
+open-source and devops (tools and culture)
 
