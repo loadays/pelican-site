@@ -1,5 +1,5 @@
 title: Introduction to the ansible inventory
-slug: ansible_inventory_introduction
+slug: ansible_inv_intro
 status: hidden
 category: proposals
 
