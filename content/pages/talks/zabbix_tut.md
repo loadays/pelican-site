@@ -9,6 +9,9 @@ Workshop where we install and configure zabbix on our machine.
 
 Depending on the available timeframe we could add some extra checks.
 
+**Requirements :**
+
+Attendees would need to have a virtual machine installed with centos 7 for this
 
 #Bio
 

@@ -1,4 +1,5 @@
 title: ELK stack tutorial
+slug: elk_tut
 status: hidden
 category: proposals
 
