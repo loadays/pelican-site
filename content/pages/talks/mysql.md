@@ -1,6 +1,7 @@
 title: Use MySQL? Got a Question? JOIN!
 status: hidden
 category: proposals
+slug: mysql
 
 
 # Abstract

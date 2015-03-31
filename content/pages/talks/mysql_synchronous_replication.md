@@ -1,6 +1,7 @@
 title: Synchronous Replication For MySQL/MariaDB
 status: hidden
 category: proposals
+slug: mysql_synchronous_replication
 
 
 # Abstract
