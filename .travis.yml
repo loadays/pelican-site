@@ -14,5 +14,5 @@ env:
 notifications:
   irc:
     channels:
-      - "irc.freenode.org#load"
+      - "irc.freenode.org#loadays"
     on_success: change
