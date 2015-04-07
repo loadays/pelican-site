@@ -28,7 +28,7 @@ slug: schedule-temp
 | Time          | Room0                                                                                                          | Room1                                                          | Room2      |
 |---------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------|
 |10:00 10:55    | [_Propellor_](propellor.html) (Jelmer Vernooij)                                                                | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       |            |
-|11:00 10:55    | [_Using Belgium EID under Linux_](beid_linux.html) (Wouter Verhelst)                                           | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       |            |
+|11:00 11:55    | [_Using Belgium EID under Linux_](beid_linux.html) (Wouter Verhelst)                                           | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       |            |
 |12:00 12:55    | **LUNCH**                                                                                                      | **LUNCH**                                                      | **LUNCH**  |
 |13:00 13:55    | [_Building a Business Continuity Plan with Bareos and rear_]() (Gratien Dhaese)                                | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)    |            |
 |14:00 14:55    | [_syslog-ng: from log collecting to log processing and information extraction_](syslog_ng.html) (Péter Czanik) | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)    |            |
