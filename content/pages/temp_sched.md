@@ -25,15 +25,15 @@ slug: schedule-temp
 
 ##Sunday 12/4/2015
 
-| Time          | Room0                                                                                                                       | Room1                                                          | Room2      |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------|
-|10:00 10:55    | [_Propellor_](propellor.html) (Jelmer Vernooij)                                                                             | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       |            |
-|11:00 11:55    | [_Containers with systemd nspawn_](containers_nspawn.html) (Gábor Nyers)                                                    | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       | [_Using Belgium EID under Linux_](beid_linux.html) (Wouter Verhelst)          |
-|12:00 12:55    | **LUNCH**                                                                                                                   | **LUNCH**                                                      | **LUNCH**  |
-|13:00 13:55    | [_Puppet Enterprise_](puppet_ent.html) (Johan De Wit)                                             | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)    |[_Building a Business Continuity Plan with Bareos and rear_]() (Gratien Dhaese)           |
-|14:00 14:55    | [_Configuration management from house-build to pulling strings with Puppet and beyond_](puppet_colruyt.html) (Eric Seynave) | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)    |            |
-|15:00 15:55    | **BREAK**                                                                                                                   | **BREAK**                                                      | **BREAK**  |
-|16:00 16:55    | [_open source monitoring with Icinga_](icinga_monitoring.html)(Bernd Erk)                                                   | [_Whats the new Sattelite_]() (Maxim Burgerhout)               |            |
+| Time          | Room0                                                                                                                       | Room1                                                          | Room2                                                                           |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------|
+|10:00 10:55    | [_open source monitoring with Icinga_](icinga_monitoring.html)(Bernd Erk)                                                   | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       | [_Propellor_](propellor.html) (Jelmer Vernooij)                                 |
+|11:00 11:55    | [_Containers with systemd nspawn_](containers_nspawn.html) (Gábor Nyers)                                                    | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       | [_Using Belgium EID under Linux_](beid_linux.html) (Wouter Verhelst)            |
+|12:00 12:55    | **LUNCH**                                                                                                                   | **LUNCH**                                                      | **LUNCH**                                                                       |
+|13:00 13:55    | [_Puppet Enterprise_](puppet_ent.html) (Johan De Wit)                                                                       | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)    | [_Building a Business Continuity Plan with Bareos and rear_]() (Gratien Dhaese) |
+|14:00 14:55    | [_Configuration management from house-build to pulling strings with Puppet and beyond_](puppet_colruyt.html) (Eric Seynave) | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)    |                                                                                 |
+|15:00 15:55    | **BREAK**                                                                                                                   | **BREAK**                                                      | **BREAK**                                                                       |
+|16:00 16:55    | [_Whats the new Sattelite_]() (Maxim Burgerhout)                                                                            |                                                                |                                                                                 |
 
 
 ##Room Assignment
