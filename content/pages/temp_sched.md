@@ -8,7 +8,7 @@ slug: schedule-temp
 
 ##Saturday 11/4/2015
 
-| time          | Room0                                                                                                 | Room1                                                                                                                         | Room2                                                                                                               |
+| time          | Room1                                                                                                 | Room2                                                                                                                         | Room3                                                                                                               |
 |---------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 |09:30 09:45    | **WELCOME**                                                                                           | **WELCOME**                                                                                                                   | **WELCOME**                                                                                                         |
 |09:45 10:25    | [_Keep the lights burning_](keep_lights_burning.html) (Daniel Paulus)                                 | [_One more thing about MySQL - MySQL 5.7_](mysql57.html) (Carsten Thalheimer)                                                 | [_Introduction to the ansible inventory_](ansible_inv_intro.html) (Serge van Ginderachter)                          |
@@ -25,7 +25,7 @@ slug: schedule-temp
 
 ##Sunday 12/4/2015
 
-| Time          | Room0                                                                                                                       | Room1                                                          | Room2                                                                           |
+| Time          | Room1                                                                                                                       | Room                                                          | Room3                                                                           |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------|
 |10:00 10:55    | [_open source monitoring with Icinga_](icinga_monitoring.html)(Bernd Erk)                                                   | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       | [_Propellor_](propellor.html) (Jelmer Vernooij)                                 |
 |11:00 11:55    | [_Containers with systemd nspawn_](containers_nspawn.html) (Gábor Nyers)                                                    | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       | [_Using Belgium EID under Linux_](beid_linux.html) (Wouter Verhelst)            |
