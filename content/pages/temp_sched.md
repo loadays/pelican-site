@@ -38,6 +38,6 @@ slug: schedule-temp
 
 ##Room Assignment
 
-- Room0: Presentation Room
-- Room1: Presentation/Workshop Room
-- Room2: Open Space/Hacker Room
+- Room1: Presentation Room
+- Room2: Presentation/Workshop Room
+- Room3: Open Space/Hacker Room
