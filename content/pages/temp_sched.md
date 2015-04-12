@@ -1,7 +1,6 @@
 title: Schedule
 slug: schedule-temp
 
-**This schedule is still subject to change and NOT finalized**
 
 [TOC]
 
@@ -25,7 +24,7 @@ slug: schedule-temp
 
 ##Sunday 12/4/2015
 
-| Time          | Room1                                                                                                                       | Room                                                          | Room3                                                                           |
+| Time          | Room1                                                                                                                       | Room2                                                          | Room3                                                                           |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------|
 |10:00 10:55    | [_open source monitoring with Icinga_](icinga_monitoring.html)(Bernd Erk)                                                   | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       | [_Propellor_](propellor.html) (Jelmer Vernooij)                                 |
 |11:00 11:55    | [_Containers with systemd nspawn_](containers_nspawn.html) (Gábor Nyers)                                                    | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       | [_Using Belgium EID under Linux_](beid_linux.html) (Wouter Verhelst)            |
