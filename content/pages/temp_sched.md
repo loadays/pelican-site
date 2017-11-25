@@ -1,6 +1,5 @@
 title: Schedule
-slug: schedule-temp
-
+status: Hidden
 
 [TOC]
 

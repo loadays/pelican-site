@@ -1,7 +1,5 @@
 Date: 2014-03-01
 Title: Archives
-Tag: archives
-Slug: archives
 
 Archived sites
 --------------

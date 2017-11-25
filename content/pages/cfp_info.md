@@ -1,5 +1,4 @@
 Title: Call for Presentation
-Status: hidden
 
 ## LOADays Call-for-Presentation 2018 ##
 The CFP is open until __16rd of February 2018__.

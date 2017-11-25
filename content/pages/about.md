@@ -1,7 +1,5 @@
 Date: 2013-02-12
 Title: About
-Tag: About
-Slug: about
 
 LOADays stands for Linux Open Administration Days and is also referred 
 to as __LOAD__.
