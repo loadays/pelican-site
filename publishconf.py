@@ -30,25 +30,25 @@ STATIC_PATHS = ["archives", "images" , "slides", "CNAME" ]
 SPONSORGOLD =   (
                     ('Don Bosco Wilrijk','http://www.donboscowilrijk.be/','/images/logo_don_bosco.png'),
                     ('Inuits','http://www.inuits.eu/','/images/logo_inuits.png'),
+                    ('VanTosh','http://www.vantosh.com/','/images/logo_vantosh.png'),
 #                    ('Proxy','http://www.proxy.nl/','/static/images/logo_proxy.png'),
 #                    ('Nucleus','http://www.nucleus.be/','/images/logo_nucleus.png'),
 #                    ('Combell','http://www.combell.be/','/images/logo_combell.png'),
 #                    ('Openminds','http://www.openminds.be/','/images/logo_openminds.jpg'),
-                    ('Trilands','http://www.trilands.be/','/images/logo_trilands.png'),
-                    ('Kangaroot','http://www.kangaroot.net/','/images/logo_kangaroot.png'),
-                    ('Percona','http://www.percona.com/','/images/logo_percona.jpg'),
+#                    ('Trilands','http://www.trilands.be/','/images/logo_trilands.png'),
+#                    ('Kangaroot','http://www.kangaroot.net/','/images/logo_kangaroot.png'),
+#                    ('Percona','http://www.percona.com/','/images/logo_percona.jpg'),
                 )
 SPONSORSILVER = (
-                    ('VanTosh','http://www.vantosh.com/','/images/logo_vantosh.png'),
-                    ('Skyscrapers','http://skyscrapers.eu/','/images/logo_skyscrapers.png'),
+#                    ('Skyscrapers','http://skyscrapers.eu/','/images/logo_skyscrapers.png'),
 #                    ('O\'Reilly','http://www.oreilly.com/','/images/logo_oreilly.gif'),
 #                    ('Red Hat','http://www.redhat.com/','/static/images/logo_redhat.jpg'),
 #                    ('SuSE','http://www.suse.com/','/static/images/logo_suse.png'),
                 )
 SPONSORBRONZE = (
-                    ('Oracle','http://www.oracle.com/','/images/logo_oracle.gif'),
+#                    ('Oracle','http://www.oracle.com/','/images/logo_oracle.gif'),
 #                    ('Symas','http://www.symas.com/','/static/images/logo_symas.png'),
-                    ('IT Partners','','/images/logo_itpartners.png'),
+#                    ('IT Partners','','/images/logo_itpartners.png'),
 #                    ('Open Future','http://www.open-future.be/','/images/logo_openfuture.png'),
 #                    ('Unix Solutions','http://www.unix-solutions.be/','/images/logo_unixsolutions.png'),
 #                    ('LPI','http://www.lpi.org/','/images/logo_lpi.png'),
@@ -85,6 +85,6 @@ SITEMAP = {
 }
 
 # Metadata
-META_DESCRIPTION = 'LOADays - Linux Open Administration Days - 11/04/2015 & 12/04/2015'
+META_DESCRIPTION = 'LOADays - Linux Open Administration Days - 21/04/2018 & 22/04/2018'
 META_KEYWORDS = 'loadays,load days,load,conference,antwerp,linux,open source'
 DEFAULT_METADATA = ( ('loadays','load days'),('load','load'),)
