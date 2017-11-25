@@ -3,8 +3,8 @@ branches:
   only:
   - master
 install:
-- git config --global user.email "vincent@vanderkussen.org"
-- git config --global user.name "vincentvdk"
+- git config --global user.email "info@loadays.org"
+- git config --global user.name "loadays"
 - pip install pelican ghp-import Markdown
 script:
 - make publish github
