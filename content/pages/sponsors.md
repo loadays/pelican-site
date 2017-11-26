@@ -1,5 +1,4 @@
 title: sponsors
-status: hidden
 
 ## Sponsors ##
 
