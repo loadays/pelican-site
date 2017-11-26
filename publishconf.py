@@ -21,7 +21,7 @@ DELETE_OUTPUT_DIRECTORY = False
 PATH= ('content/')
 PAGE_PATHS = ['pages/']
 ARTICLE_PATHS = ['posts/']
-MENUITEMS = (('Home', 'http://loadays.org'),('CfP','cfp_info.html'),('Sponsors','sponsors.html'))
+MENUITEMS = (('Home', 'http://loadays.org'),('CfP','/pages/cfp.html'),('Sponsors','/pages/sponsors.html'))
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 STATIC_PATHS = ["archives", "images" , "slides", "CNAME" ]
@@ -60,8 +60,8 @@ SPONSORBRONZE = (
  #         )
 
 # Social connections
-# GITHUB_URL = 'https://github.com/loadays/pelican-site/'
-# GITHUB_POSITION = 'left'
+GITHUB_URL = 'https://git.loadays.eu/2018loadaysbe/cfp'
+GITHUB_POSITION = 'left'
 
 # Plugins
 # PLUGINS = [ 'pelican.plugins.sitemap',
