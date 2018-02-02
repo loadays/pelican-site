@@ -17,6 +17,6 @@ Using a Merge Request by following the next steps :
 -   Send us a Merge Request again the main master project
 -   If you get a 404 error, please do not panic, you cannot see your own MR and gitlab doens't know what to show.
 
-more information on [/pages/cfp.html](CfP page)
+more information on [CfP page](/pages/cfp.html)
 
 
