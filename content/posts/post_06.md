@@ -1,4 +1,4 @@
-Date: 2017-11-26
+Date: 2018-02-02
 Title: Call for Presentations LOADays 2018!
 Tags: loadays
 Slug: Call for Presentations LOADays 2018!
