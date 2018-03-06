@@ -6,8 +6,11 @@ LOADays is made possible by the support of our sponsors. Our intent is to keep t
 
 Many different sponsorship opportunities are avialable but please contact us if you would like to inquire about a unique package.  
 
-Download the [](sponsor prospectus) and [](let us know) which sponsorship option best suits you.  
+Download the [http://www.loadays.org/files/LOADaysApen2018SponsorDoc.pdf](sponsor prospectus) and [mailto:info@loadays.org](let us know) which sponsorship option best suits you.  
 
+### Titanium Sponsors ###
+
+### Platinum Sponsors ###
 
 ### Gold Sponsors ###
 
