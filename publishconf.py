@@ -24,7 +24,7 @@ ARTICLE_PATHS = ['posts/']
 MENUITEMS = (('Home', 'http://loadays.org'),('CfP','/pages/cfp.html'),('Sponsors','/pages/sponsors.html'))
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
-STATIC_PATHS = ["archives", "images" , "slides", "CNAME" ]
+STATIC_PATHS = ["archives", "images" , "slides", "CNAME" , "files" ]
 
 # Sponsor section
 SPONSORGOLD =   (
