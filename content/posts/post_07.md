@@ -19,5 +19,5 @@ Using a Merge Request by following the next steps :
 
 more information on [CfP page](/pages/cfp.html)  
 
-You can also send in your proposal via email to [cfp@loadaus.org](mailto:cfp@loadays.org?Subject=CfP LOADays 2018).  
+You can also send in your proposal via email to [cfp@loadays.org](mailto:cfp@loadays.org?Subject=CfP LOADays 2018).  
 
