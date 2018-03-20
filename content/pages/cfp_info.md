@@ -2,7 +2,7 @@ Title: Call for Presentation
 slug: cfp
 
 ## LOADays Call-for-Presentation 2018 ##
-The CFP is open until __1th of April 2018__.
+The CFP is open until __8th of April 2018__.
 
 
 ## How to submit your talk proposal?##
