@@ -1,7 +1,7 @@
 Date: 2018-03-20
-Title: Call for Presentations LOADays 2018!
+Title: Call for Presentations LOADays 2018 Extended!
 Tags: loadays
-Slug: Call for Presentations LOADays 2018!
+Slug: Call for Presentations LOADays 2018 Extended!
 
 The Call for Presentations, Workshops, Ignites are open for submission.
 The CfP has been _extended_ and will be open until __8th of April 2018__.
