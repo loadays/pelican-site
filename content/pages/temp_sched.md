@@ -6,36 +6,33 @@ status: Hidden
 
 ##Saturday 11/4/2015
 
-| time          | Room1                                                                                                 | Room2                                                                                                                         | Room3                                                                                                               |
-|---------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-|09:30 09:45    | **WELCOME**                                                                                           | **WELCOME**                                                                                                                   | **WELCOME**                                                                                                         |
-|09:45 10:25    | [_Keep the lights burning_](keep_lights_burning.html) (Daniel Paulus)                                 | [_One more thing about MySQL - MySQL 5.7_](mysql57.html) (Carsten Thalheimer)                                                 | [_Introduction to the ansible inventory_](ansible_inv_intro.html) (Serge van Ginderachter)                          |
-|10:30 11:25    | [_Coworking with Git_](git_coworking.html)(Julien Pivotto)                                            | [_Synchronous Replication For MySQL/MariaDB_](mysql_synchronous_replication.html) (Kenny Gryp)                                | [_JetFire, an ansible inventory management_](jetfire.html) (Vincent Van Der Kussen)                                             |
-|11:30 12:25    | [_Service Discovery and config management_](service_discovery_cfgmgmt.html) (Gareth Rushgrove)        | [_Use MySQL? Got a Question? JOIN!_](mysql.html) (Kenny Gryp)                                                                 | [_Ansible Open Discussion about inventories_]()                                                                     |
-|12:30 13:25    | ** LUNCH**                                                                                            | **LUNCH**                                                                                                                     | **LUNCH**                                                                                                           |
-|13:30 14:25    | [_MQTT for monitoring_](mqtt_monitoring.html) (Jan-Piet Mens)                                         | [_MySQL, MySQL Fabric and MySQL Cluster ... how to scale beyond the limits_](mysqlfabric.html) (Carsten Thalheimer)           | [_Ansible Open discussion about inventories_]()|
-|14:30 15:25    | [_OpenHAB Intro_](openhab_intro.html) (Jan-Piet Mens)                                                 | [_Running Docker and Containers without migrating to systemd by using Oracle Linux 6_](docker_oracle.html) (Lucian Preoteasa) | [_Git Tutorial_](git_tut.html) (Jeroen Budts)                                                                       |
-|15:30 16:25    | [_CentOS install methods_](centos_install_methods.html)(Fabian Arrotin)                               | [_Microservices with CoreOS_]() (Timo Derstappen)                                                                             | [_Git tutorial_](git_tut.html) (Jeroen Budts)                                                                       |
-|16:30 16:55    | **BREAK**                                                                                             | **BREAK**                                                                                                                     | **BREAK**                                                                                                           |
-|17:00 18:00    | **PREP SOCIAL**                                                                                       | [_syslog-ng: from log collecting to log processing and information extraction_](syslog_ng.html) (Péter Czanik)                |                                                                                                                     |
-|18:00 22:00    | **SOCIAL EVENT**                                                                                      |  **SOCIAL EVENT**                                                                                                             | **SOCIAL EVENT**                                                                                                    |
+| time          | Room A                                                           | Room B                                                                         |
+|---------------|------------------------------------------------------------------|--------------------------------------------------------------------------------|
+|11:30 11:50    | **WELCOME**                                                      | **WELCOME**                                                                    |
+|11:00 11:50    | [_GDPR for Nerds_](gdpr-for-nerds.html) (Frank Lauwers)          | [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)  |
+|12:00 12:50    | [_Jenkins as SysAdmin tool_](gdpr-for-nerds.html)(Fabian Arrotin)|                                                                                |
+|13:00 14:00    | **LUNCH**                                                        | **LUNCH**                                                                      |
+|14:00 14:50    | [_Ansible AWX_](awx.html) (Jan-Piet Mens)                        | [_TBA_](tba.html)()|
+|14:30 15:25    | [_Making Sense of SyslogNG_]( syslog-ng.html)(Peter Czanik)      | [_FreeBSD is not a Linux distro_](freebsd_not_a_linux_distribution.html) (Kristof Provost)|
+|15:30 16:25    | [_ZFS on Linux_](zfsonlinux.html)(Wouter Verhelst)               | [_Using Gluster for your Storage Workloads_](using_gluster_for_your_storage_workloads.html)(Niels de Vos)|
+|17:00 18:00    | **PREP SOCIAL**                                                  | [_TBA_]()()                                                                     |
+|18:00 22:00    | **SOCIAL EVENT**                                                 |  **SOCIAL EVENT**                                                               |
 
 
 ##Sunday 12/4/2015
 
-| Time          | Room1                                                                                                                       | Room2                                                          | Room3                                                                           |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------|
-|10:00 10:55    | [_open source monitoring with Icinga_](icinga_monitoring.html)(Bernd Erk)                                                   | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       | [_Propellor_](propellor.html) (Jelmer Vernooij)                                 |
-|11:00 11:55    | [_Containers with systemd nspawn_](containers_nspawn.html) (Gábor Nyers)                                                    | [_ELK Stack Tutorial_](elk_tut.html) (Lee Van Steerthem)       | [_Using Belgium EID under Linux_](beid_linux.html) (Wouter Verhelst)            |
-|12:00 12:55    | **LUNCH**                                                                                                                   | **LUNCH**                                                      | **LUNCH**                                                                       |
-|13:00 13:55    | [_Puppet Enterprise_](puppet_ent.html) (Johan De Wit)                                                                       | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)    | [_Building a Business Continuity Plan with Bareos and rear_]() (Gratien Dhaese) |
-|14:00 14:55    | [_Configuration management from house-build to pulling strings with Puppet and beyond_](puppet_colruyt.html) (Eric Seynave) | [_ZABBIX Tutorial_](zabbix_tut.html) (Patrick Uytterhoeven)    |                                                                                 |
-|15:00 15:55    | **BREAK**                                                                                                                   | **BREAK**                                                      | **BREAK**                                                                       |
-|16:00 16:55    | [_Whats the new Sattelite_]() (Maxim Burgerhout)                                                                            |                                                                |                                                                                 |
+| Time          | Room A                                                                  | Room B                                                                           |
+|---------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|10:00 10:55    | [_OAuth 2.0 And OpenID Connect_](.html)()                               | [_Scheduling data Pipelines_](scheduling_with_airflow.md) (Bert Desmet)          |
+|11:00 11:55    | [_Prometheus for the traditioanal DC_](prometheus.html) (Julien Pivotto)| [_SergeTBA_](.html) (Serge Vanginderachter)                                      |
+|12:00 12:55    | **LUNCH**                                                               | **LUNCH**                                                                        |
+|13:00 13:55    | [_Zabbix_](.html) (Johan De Wit)                                        | [_ReAR Automated Testing_](rear-automated-testing.html) (Gratien Dhaese)         |
+|14:00 14:55    | [_Your app lives on a network_](.html) (Wim Godden)                     | [_From Boot to root, pentesting with Docker_](pentest.html) (Jean-François Maes) |
+|15:00 15:55    | [_Varnish_](varnish.html) (Mattias)                                     | [_OpenLAN_](openlanparty.html) (Christophe Vanlancker)                           |
+|16:00 16:55    | **CLOSING**                                                             |                                                                                  |
 
 
 ##Room Assignment
 
-- Room1: Presentation Room
-- Room2: Presentation/Workshop Room
-- Room3: Open Space/Hacker Room
+- Room A: Presentation Room
+- Room B: Presentation/Workshop Room
