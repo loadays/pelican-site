@@ -10,7 +10,7 @@ title: Schedule
 |09:45 - 10:00  | **WELCOME**                                                           |  **WELCOME**                                                                              |
 |10:00 - 10:55  | [_GDPR for Nerds_](gdpr-for-nerds.html) (Frank Lauwers)               |  [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)            |
 |11:00 - 11:55  | [_Jenkins as SysAdmin tool_](jenkins-sysadmin.html) (Fabian Arrotin)  |  [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)            |
-|12:00 - 12:55  |                                                                       |  [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)            |
+|12:00 - 12:55  | [_Applying SOLID principles to Infrastructure as Code_](solid.html) (Bram Vogelaar) |  [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)  |
 |13:00 - 14:00  | **LUNCH**                                                             |  **LUNCH**                                                                                |
 |14:00 - 14:55  | [_Ansible AWX_](awx.html) (Jan-Piet Mens)                             |  [_ZFS on Linux_](zfsonlinux.html) (Wouter Verhelst)                                      |
 |15:00 - 15:55  | [_Simple system testing with Roundup and Ansible_]() (Pieter Hollant) |  [_Using Gluster for your Storage Workloads_](glusterworkloads.html) (Niels de Vos)       |
