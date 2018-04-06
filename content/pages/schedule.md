@@ -1,6 +1,6 @@
 title: Schedule
 
-[TOC]
+This is a _DRAFT_ version !
 
 
 ##Saturday 11/4/2015
