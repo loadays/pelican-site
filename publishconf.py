@@ -23,7 +23,7 @@ PAGE_PATHS = ['pages/']
 ARTICLE_PATHS = ['posts/']
 MENUITEMS = (
             ('Home', 'http://loadays.org'),
-            ('Venue','/pages/venue.html')
+            ('Venue','/pages/venue.html'),
             ('Sponsors','/pages/sponsors.html'),
             ('CfP','/pages/cfp.html'),
             )
