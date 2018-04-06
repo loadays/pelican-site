@@ -21,7 +21,12 @@ DELETE_OUTPUT_DIRECTORY = False
 PATH= ('content/')
 PAGE_PATHS = ['pages/']
 ARTICLE_PATHS = ['posts/']
-MENUITEMS = (('Home', 'http://loadays.org'),('CfP','/pages/cfp.html'),('Sponsors','/pages/sponsors.html'))
+MENUITEMS = (
+            ('Home', 'http://loadays.org'),
+            ('Venue','/pages/venue.html')
+            ('Sponsors','/pages/sponsors.html'),
+            ('CfP','/pages/cfp.html'),
+            )
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 STATIC_PATHS = ["archives", "images" , "slides", "CNAME" , "files" ]
