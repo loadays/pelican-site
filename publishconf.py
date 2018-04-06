@@ -24,6 +24,7 @@ ARTICLE_PATHS = ['posts/']
 MENUITEMS = (
             ('Home', 'http://loadays.org'),
             ('Venue','/pages/venue.html'),
+            ('Schedule','/pages/schedule.html'),
             ('Sponsors','/pages/sponsors.html'),
             ('CfP','/pages/cfp.html'),
             )
