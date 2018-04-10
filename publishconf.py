@@ -26,7 +26,6 @@ MENUITEMS = (
             ('Venue','/pages/venue.html'),
             ('Schedule','/pages/schedule.html'),
             ('Sponsors','/pages/sponsors.html'),
-            ('CfP','/pages/cfp.html'),
             )
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
