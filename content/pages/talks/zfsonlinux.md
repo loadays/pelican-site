@@ -1,4 +1,4 @@
-title ZFS on Linux: storage beyond volume management and RAID (Wouter Verhelst)
+title: "ZFS on Linux: storage beyond volume management and RAID (Wouter Verhelst)"
 slug: zfsonlinux
 
 ## ZFS on Linux: storage beyond volume management and RAID (Wouter Verhelst) ##
