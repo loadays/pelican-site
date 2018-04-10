@@ -66,8 +66,8 @@ SPONSORBRONZE = (
  #         )
 
 # Social connections
-GITHUB_URL = 'https://git.loadays.eu/2018loadaysbe/cfp'
-GITHUB_POSITION = 'left'
+#GITHUB_URL = 'https://git.loadays.eu/2018loadaysbe/cfp'
+#GITHUB_POSITION = 'left'
 
 # Plugins
 # PLUGINS = [ 'pelican.plugins.sitemap',
