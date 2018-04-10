@@ -1,5 +1,5 @@
 title: Relax-and-Recover Automated testing (Gratien D'haese)
-slug: reartest
+slug: reartesting
 
 ## Relax-and-Recover Automated testing (Gratien D'haese)
 
