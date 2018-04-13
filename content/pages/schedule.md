@@ -13,7 +13,7 @@ This is a _DRAFT_ version !
 |12:00 - 12:55  | [_Applying SOLID principles to Infrastructure as Code_](solid_iac.html) (Bram Vogelaar)   |  [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)            |
 |13:00 - 13:55  | **LUNCH**                                                                                 |  **LUNCH**                                                                                |
 |14:00 - 14:55  | [_Ansible AWX_](awx.html) (Jan-Piet Mens)                                                 |  [_ZFS on Linux_](zfsonlinux.html) (Wouter Verhelst)                                      |
-|15:00 - 15:55  | [_Simple system testing with Roundup and Ansible_](ansible_roundup.html) (Pieter Hollant) |  [_Using Gluster for your Storage Workloads_](glusterworkloads.html) (Niels de Vos)       |
+|15:00 - 15:55  | [_Simple system testing with Roundup and Ansible_](ansible_roundup.html) (Pieter Hollants)|  [_Using Gluster for your Storage Workloads_](glusterworkloads.html) (Niels de Vos)       |
 |16:00 - 16:55  | [_Ansible Role testing with Molecule_](molecule.html) (Ton Kersten)                       |  [_From Boot to root, pentesting with Docker_](pentest.html) (Jean-François Maes)         |
 |17:00 - 17:55  | **PREP SOCIAL**                                                                           |  [_Lan Party using Open Source tools_](openlanparty.html) (Christophe Vanlancker)         |
 |18:00 - 21:55  | **[SOCIAL EVENT](social.html)**                                                           |  **[SOCIAL EVENT](social.html)**                                                          |
