@@ -8,7 +8,7 @@ This is a _DRAFT_ version !
 | Time          | Room A                                                                                    | Room B                                                                                    |
 |---------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 |09:45 - 10:00  | **WELCOME**                                                                               |  **WELCOME**                                                                              |
-|10:00 - 10:55  | [_GDPR for Nerds_](gdpr-for-nerds.html) (Frank Lauwers)                                   |  [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)            |
+|10:00 - 10:55  | [_GDPR for Nerds_](gdpr-for-nerds.html) (Frank Louwers)                                   |  [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)            |
 |11:00 - 11:55  | [_Jenkins as SysAdmin tool_](jenkins-sysadmin.html) (Fabian Arrotin)                      |  [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)            |
 |12:00 - 12:55  | [_Applying SOLID principles to Infrastructure as Code_](solid_iac.html) (Bram Vogelaar)   |  [_Troubleshooting Workshop_](network-troubleshooting.html) (Bert Van Vreckem)            |
 |13:00 - 13:55  | **LUNCH**                                                                                 |  **LUNCH**                                                                                |
