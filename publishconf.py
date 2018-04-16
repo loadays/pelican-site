@@ -25,6 +25,7 @@ MENUITEMS = (
             ('Home', 'http://loadays.org'),
             ('Venue','/pages/venue.html'),
             ('Schedule','/pages/schedule.html'),
+            ('Social','/pages/social.html')
             ('Sponsors','/pages/sponsors.html'),
             )
 DISPLAY_PAGES_ON_MENU = True
