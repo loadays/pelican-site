@@ -26,6 +26,7 @@ MENUITEMS = (
             ('Venue','/pages/venue.html'),
             ('Schedule','/pages/schedule.html'),
             ('Social','/pages/social.html')
+            ('FAQ','/pages/faq.html')
             ('Sponsors','/pages/sponsors.html'),
             )
 DISPLAY_PAGES_ON_MENU = True
