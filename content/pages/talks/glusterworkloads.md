@@ -1,5 +1,5 @@
 title: Using Gluster for your Storage Workloads (Niels de Vos)
-slug: glusterworkload
+slug: glusterworkloads
 
 ## Using Gluster for your Storage Workloads (Niels de Vos) ##
 
