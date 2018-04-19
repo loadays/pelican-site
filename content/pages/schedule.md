@@ -1,7 +1,5 @@
 title: Schedule
 
-This is a _DRAFT_ version !
-
 
 ##Saturday 21/4/2018
 
