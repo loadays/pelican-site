@@ -12,7 +12,7 @@ title: Schedule
 |13:00 - 13:55  | **LUNCH**                                                                                 |  **LUNCH**                                                                                |
 |14:00 - 14:55  | [_Ansible AWX_](awx.html) (Jan-Piet Mens)                                                 |  [_ZFS on Linux_](zfsonlinux.html) (Wouter Verhelst)                                      |
 |15:00 - 15:55  | [_Simple system testing with Roundup and Ansible_](ansible_roundup.html) (Pieter Hollants)|  [_Using Gluster for your Storage Workloads_](glusterworkloads.html) (Niels de Vos)       |
-|16:00 - 16:55  | [_Ansible Role testing with Molecule_](molecule.html) (Ton Kersten)                       |  [_From Boot to root, pentesting with Docker_](pentest.html) (Jean-François Maes)         |
+|16:00 - 16:55  | [_From Boot to root, pentesting with Docker_](pentest.html) (Jean-François Maes)          |  [_Ansible Role testing with Molecule_](molecule.html) (Ton Kersten)                      |
 |17:00 - 17:55  | **PREP SOCIAL**                                                                           |  [_Lan Party using Open Source tools_](openlanparty.html) (Christophe Vanlancker)         |
 |18:00 - 21:55  | **[SOCIAL EVENT](social.html)**                                                           |  **[SOCIAL EVENT](social.html)**                                                          |
 
@@ -27,7 +27,7 @@ title: Schedule
 |13:00 - 13:55  | **LUNCH**                                                                   | **LUNCH**                                                                                               |
 |14:00 - 14:55  | [_Is Your DNS Server Up-To-Date_](dnsupdate.html) (Pieter Lexis)            | [_Scheduling data Pipelines_](scheduling_with_airflow.html) (Bert Desmet)                               |
 |15:00 - 15:55  | [_Relax-and-Recover Automated testing_](reartesting.html) (Gratien D'haese) | [_Making Sense of SyslogNG_](syslog-ng.html) (Peter Czanik)                                             |
-|16:00 - 16:55  | [_FreeBSD is not a Linux distro_](freebsd.html) (Kristof Provost)           | [_Tesla Hacking_](teslahacking.html) (Jasper Nuyens)                                                    |
+|16:00 - 16:55  | [_Tesla Hacking_](teslahacking.html) (Jasper Nuyens)                        | [_FreeBSD is not a Linux distro_](freebsd.html) (Kristof Provost)                                       |
 |17:00 - 17:55  | [_Varnish_](varnish.html) (Mattias Geniar)                                  | [_Your app lives on a network_](appnetwork.html) (Wim Godden)                                           |
 |18:00 - 18:15  | **CLOSING**                                                                 | **CLOSING**                                                                                             |
 
