@@ -8,6 +8,8 @@ These changes might lead to domains becoming unreachable, as the current impleme
 In short, "upgrade to a modern version of your authoritative nameserver" is the advice.
 This presentation discusses what EDNS actually is, the background of this decision by the standards and development community and what you can do to check and prevent your domains from going dark.
 
+[Slides](/files/plexis-edns-workaround-removal-loadays-2018.pdf)
+
 ## Pieter Lexis ##
 
 Educated as a Systems and Network Engineer and having dabbled with DevOps-y things for years, Pieter's official title now is "Senior PowerDNS Engineer".
