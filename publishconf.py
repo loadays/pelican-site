@@ -94,6 +94,6 @@ SITEMAP = {
 }
 
 # Metadata
-META_DESCRIPTION = 'LOADays - Linux Open Administration Days - 21/04/2018 & 22/04/2018'
+META_DESCRIPTION = 'LOADays - Linux Open Administration Days - 27/04/2018 & 28/04/2019'
 META_KEYWORDS = 'loadays,load days,load,conference,antwerp,linux,open source'
 DEFAULT_METADATA = ( ('loadays','load days'),('load','load'),)
