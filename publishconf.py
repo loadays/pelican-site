@@ -28,6 +28,7 @@ MENUITEMS = (
             ('Social','/pages/social.html'),
             ('FAQ','/pages/faq.html'),
             ('Sponsors','/pages/sponsors.html'),
+            ('CoB', '/pages/code-of-behaviour.html'),
             )
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
