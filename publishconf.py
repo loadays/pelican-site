@@ -3,7 +3,7 @@
 
 AUTHOR = u"Loadays Crew"
 SITENAME = u"LOADays"
-SITEURL = 'http://www.loadays.org'
+SITEURL = 'https://loadays.org'
 TIMEZONE = 'Europe/Brussels'
 DEFAULT_LANG = 'en'
 
