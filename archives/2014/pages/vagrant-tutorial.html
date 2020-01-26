@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Vagrant tutorial</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="/theme/css/main.css" type="text/css" />
+        <link href="/feeds/rss.xml" type="application/rss+xml" rel="alternate" title="LOADays RSS Feed" />
+
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+        <!--[if lte IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="/css/ie.css"/>
+                <script src="/js/IE8.js" type="text/javascript"></script><![endif]-->
+
+        <!--[if lt IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="/css/ie6.css"/><![endif]-->
+
+</head>
+
+<body id="index" class="home">
+<div class="button">
+
+
+</div>        <header id="banner" class="body">
+<!--                <h1><a href="">LOADays </a></h1> -->
+                <nav><ul>
+                    <li><a href="http://loadays.org">Home</a></li>
+                    <!--<li><a href="http://loadays.org">Home</a></li> -->
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/archives.html">Archives</a></li>
+                    <li><a href="/pages/faq.html">FAQ</a></li>
+                    <li><a href="/pages/schedule-temp.html">Schedule</a></li>
+                    <li><a href="/pages/venue.html">Venue</a></li>
+                <!--                    <li ><a href="/category/posts.html">posts</a></li>
+ no category in navigation --> 
+                </ul></nav>
+        </header><!-- /#banner -->
+        
+	<div id="container">
+<div class="sponsors">
+
+    <h2> Gold Sponsors</h2>
+    <div class="sponsors-gold">
+        <ul>
+            <li><a href="http://www.donboscowilrijk.be/"><img src="/images/logo_don_bosco.png" alt="Don Bosco Wilrijk"></a></li>
+            <li><a href="http://www.inuits.eu/"><img src="/images/logo_inuits.png" alt="Inuits"></a></li>
+            <li><a href="http://www.nucleus.be/"><img src="/images/logo_nucleus.png" alt="Nucleus"></a></li>
+            <li><a href="http://www.openminds.be/"><img src="/images/logo_openminds.jpg" alt="Openminds"></a></li>
+            <li><a href="http://www.kangaroot.net/"><img src="/images/logo_kangaroot.png" alt="Kangaroot"></a></li>
+            <li><a href="http://www.percona.com/"><img src="/images/logo_percona.jpg" alt="Percona"></a></li>
+        </ul>
+    </div><!-- /.sponsors-gold -->
+
+    <h2>Silver Sponsors</h2>
+    <div class="sponsors-silver">
+        <ul>
+            <li><a href="http://www.oracle.com/"><img src="/images/logo_oracle.gif" alt="Oracle"></a></li>
+            <li><a href="http://www.oreilly.com/"><img src="/images/logo_oreilly.gif" alt="O'Reilly"></a></li>
+        </ul>
+    </div><!-- /.sponsors-silver -->
+
+    <h2>Bronze Sponsors</h2>
+    <div class="sponsors-bronze">
+        <ul>
+            <li><a href="http://www.vantosh.com/"><img src="/images/logo_vantosh.png" alt="VanTosh"></a></li>
+            <li><a href=""><img src="/images/logo_itpartners.png" alt="IT Partners"></a></li>
+            <li><a href="http://www.open-future.be/"><img src="/images/logo_openfuture.png" alt="Open Future"></a></li>
+            <li><a href="http://www.unix-solutions.be/"><img src="/images/logo_unixsolutions.png" alt="Unix Solutions"></a></li>
+            <li><a href="http://www.lpi.org/"><img src="/images/logo_lpi.png" alt="LPI"></a></li>
+        </ul>
+    </div><!-- /.sponsors-bronze -->
+
+</div>        
+<div id="container">
+<section id="content" class="body">    
+    <h1 class="entry-title">Vagrant tutorial</h1>
+    <h1 id="abstract">abstract</h1>
+<p>Vagrant provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.</p>
+<p>To achieve its magic, Vagrant stands on the shoulders of giants. Machines are provisioned on top of VirtualBox, VMware, AWS, or any other provider. Then, industry-standard provisioning tools such as shell scripts, Chef, or Puppet, can be used to automatically install and configure software on the machine.</p>
+<p>This tutorial will highlight the following topics</p>
+<ul>
+<li>Introduction to Vagrant</li>
+<li>Setting up boxes, finding and using base boxes</li>
+<li>Configuring Vagrant boxes (Vagrantfile)</li>
+<li>Provisioning<ul>
+<li>Shell</li>
+<li>Puppet</li>
+<li>Ansible</li>
+</ul>
+</li>
+<li>Tips and tricks</li>
+<li>Creating custom base boxes with Packer</li>
+</ul>
+<p>If you want to follow along, it's highly recommended to have following software installed in advance:</p>
+<ul>
+<li>Git</li>
+<li>VirtualBox (4.3.x) - https://www.virtualbox.org/</li>
+<li>Vagrant (1.5.x) - http://www.vagrantup.com/</li>
+<li>Initialise the base box 'alphainternational/centos-6.5-x64' so you don't have to download it via the conference wifi: <code>vagrant box add alphainternational/centos-6.5-x64</code></li>
+</ul>
+<h1 id="presentation">presentation</h1>
+<ul>
+<li>Slides: https://github.com/bertvv/vagrant-presentation</li>
+<li>Demo/Example: https://github.com/bertvv/vagrant-example</li>
+</ul>
+<h1 id="bio">bio</h1>
+<p>Bert Van Vreckem - <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#98;&#101;&#114;&#116;&#46;&#118;&#97;&#110;&#118;&#114;&#101;&#99;&#107;&#101;&#109;&#64;&#104;&#111;&#103;&#101;&#110;&#116;&#46;&#98;&#101;">&#98;&#101;&#114;&#116;&#46;&#118;&#97;&#110;&#118;&#114;&#101;&#99;&#107;&#101;&#109;&#64;&#104;&#111;&#103;&#101;&#110;&#116;&#46;&#98;&#101;</a>, <a href="https://twitter.com/bertvanvreckem">@bertvanvreckem</a></p>
+<p>Bert Van Vreckem is a Lecturer in Computer Science at <a href="http://fbo.hogent.be/">University College Ghent</a> where he now mainly teaches Linux System Administration. </p>
+</section>
+</div>
+<div id="sponsors"></div>
+	</div>
+ 	
+        <section id="extras" class="body">
+        </section><!-- /#extras -->
+
+
+        <footer id="contentinfo" class="body">
+                    All logos are used with permission of their respective owner(s).
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

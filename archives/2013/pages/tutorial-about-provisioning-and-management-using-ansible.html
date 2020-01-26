@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Tutorial about provisioning and management using Ansible</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="../theme/css/main.css" type="text/css" />
+                        <link href="http://www.loadays.org/feeds/rss.xml" type="application/rss+xml" rel="alternate" title="LOADays RSS Feed" />
+        
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+        <!--[if lte IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="../css/ie.css"/>
+                <script src="../js/IE8.js" type="text/javascript"></script><![endif]-->
+
+        <!--[if lt IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="../css/ie6.css"/><![endif]-->
+
+</head>
+
+<body id="index" class="home">
+<a href="https://github.com/loadays/pelican-site/">
+<img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_left_white_ffffff.png" alt="Fork me on GitHub" />
+</a>
+<div class="button">
+
+    
+</div>        <header id="banner" class="body">
+<!--                <h1><a href="..">LOADays </a></h1> -->
+                <nav><ul>
+                                    <li><a href="../index.html">Home</a></li>
+                    <!--<li><a href="http://loadays.org">Home</a></li> -->
+                                                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="accomodations.html">Accomodations</a></li>
+                                    <li><a href="faq.html">FAQ</a></li>
+                                    <li><a href="schedule.html">Schedule</a></li>
+                                    <li><a href="talks.html">Talks</a></li>
+                                    <li><a href="venue.html">Venue</a></li>
+                                                <!--                    <li ><a href="../category/misc.html">misc</a></li>
+                 no category in navigation --> 
+                </ul></nav>
+        </header><!-- /#banner -->
+        
+	<div id="container">
+                
+<div id="container">
+<section id="content" class="body">    
+    <h1 class="entry-title">Tutorial about provisioning and management using Ansible</h1>
+        <h2 id="requirements">Requirements</h2>
+<div class="codehilite"><pre> - Laptop with KVM support 
+   - CPU with VMX/SVM CPU instruction
+   - VT enabled in the BIOS
+ - Libvirt installation with KVM support
+ - About 5GB free disk space
+</pre></div>
+
+
+<h2 id="abstract">Abstract</h2>
+<p>About every year new tools for systems management are being released that fill a certain niche, or exploit the possibilities of configuration management by using yet another implemlentation language or a single compelling feature. And from a cynical point-of-view, Ansible is not different. However the design principles behind Ansible make it an exciting new alternative that simplifies and redefines systems management.</p>
+<p>Key features of Ansible:</p>
+<ul>
+<li>modular design</li>
+<li>requires no agent, uses SSH (or zeromq)</li>
+<li>requires no PKI infrastructure</li>
+<li>multi-tier orechestration</li>
+<li>dead simple</li>
+</ul>
+<p>This tutorial will highlight the following topics:</p>
+<ul>
+<li>Introduction to Ansible concepts</li>
+<li>Inventories, Facts, Playbooks, Modules, Plugins</li>
+<li>Using Ansible for systems management</li>
+<li>Running commands in parallel</li>
+<li>Automate using playbooks</li>
+<li>Reporting using Ansible API</li>
+<li>Using Ansible for orchestration</li>
+<li>Creating advanced playbooks</li>
+<li>Using Ansible for provisioning</li>
+<li>Integration with EC2, vSphere, KVM or RHEV</li>
+</ul>
+<h2 id="speaker">Speaker</h2>
+<ul>
+<li>Dag Wieers <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#100;&#97;&#103;&#64;&#119;&#105;&#101;&#101;&#114;&#115;&#46;&#99;&#111;&#109;">&#100;&#97;&#103;&#64;&#119;&#105;&#101;&#101;&#114;&#115;&#46;&#99;&#111;&#109;</a></li>
+<li>Jeroen Hoekx <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#106;&#101;&#114;&#111;&#101;&#110;&#64;&#104;&#111;&#101;&#107;&#120;&#46;&#98;&#101;">&#106;&#101;&#114;&#111;&#101;&#110;&#64;&#104;&#111;&#101;&#107;&#120;&#46;&#98;&#101;</a></li>
+</ul>
+<h2 id="slides">Slides</h2>
+<p><a href="https://github.com/ansible-provisioning/workshop">Workshop Files</a> <em>github</em></p>
+</section>
+</div>
+<div id="sponsors"></div>
+        <div class="sponsors">
+
+        <h2> Gold Sponsors</h2>
+    <div class="sponsors-gold">
+        <ul>
+                    <li><a href="http://www.donboscowilrijk.be/"><img src="../static/images/logo_don_bosco.png" alt="Don Bosco Wilrijk"></a></li>
+                    <li><a href="http://www.inuits.eu/"><img src="../static/images/logo_inuits.png" alt="Inuits"></a></li>
+                    <li><a href="http://www.proxy.nl/"><img src="../static/images/logo_proxy.png" alt="Proxy"></a></li>
+                    <li><a href="http://www.nucleus.be/"><img src="../static/images/logo_nucleus.png" alt="Nucleus"></a></li>
+                    <li><a href="http://www.combell.be/"><img src="../static/images/logo_combell.png" alt="Combell"></a></li>
+                    <li><a href="http://www.openminds.be/"><img src="../static/images/logo_openminds.jpg" alt="Openminds"></a></li>
+                    <li><a href="http://www.kumina.nl/en-gb/home.php"><img src="../static/images/logo_kumina.png" alt="Kumina"></a></li>
+                    <li><a href="http://www.kangaroot.net/"><img src="../static/images/logo_kangaroot.png" alt="Kangaroot"></a></li>
+                    <li><a href="http://www.percona.com/"><img src="../static/images/logo_percona.jpg" alt="Percona"></a></li>
+                </ul>
+    </div><!-- /.sponsors-gold -->
+    
+        <h2>Silver Sponsors</h2>
+    <div class="sponsors-silver">
+        <ul>
+                    <li><a href="http://www.redhat.com/"><img src="../static/images/logo_redhat.jpg" alt="Red Hat"></a></li>
+                    <li><a href="http://www.suse.com/"><img src="../static/images/logo_suse.png" alt="SuSE"></a></li>
+                </ul>
+    </div><!-- /.sponsors-silver -->
+    
+        <h2>Bronze Sponsors</h2>
+    <div class="sponsors-bronze">
+        <ul>
+                    <li><a href="http://www.vantosh.com/"><img src="../static/images/logo_vantosh.png" alt="VanTosh"></a></li>
+                    <li><a href="http://www.symas.com/"><img src="../static/images/logo_symas.png" alt="Symas"></a></li>
+                    <li><a href="tutorial-about-provisioning-and-management-using-ansible.html"><img src="../static/images/logo_itpartners.png" alt="IT Partners"></a></li>
+                    <li><a href="http://www.open-future.be/"><img src="../static/images/logo_openfuture.png" alt="Open Future"></a></li>
+                    <li><a href="http://www.lpi.org/"><img src="../static/images/logo_lpi.png" alt="LPI"></a></li>
+                </ul>
+    </div><!-- /.sponsors-bronze -->
+    
+</div>	</div>
+ 	
+        <section id="extras" class="body">
+                        </section><!-- /#extras -->
+
+
+        <footer id="contentinfo" class="body">
+                    All logos are used with permission of their respective owner(s).
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

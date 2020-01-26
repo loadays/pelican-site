@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Troubleshooting Network Services (Bert Van Vreckem)</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="/theme/css/main.css" type="text/css" />
+        <link href="/feeds/rss.xml" type="application/rss+xml" rel="alternate" title="LOADays RSS Feed" />
+
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+        <!--[if lte IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="/css/ie.css"/>
+                <script src="/js/IE8.js" type="text/javascript"></script><![endif]-->
+
+        <!--[if lt IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="/css/ie6.css"/><![endif]-->
+
+</head>
+
+<body id="index" class="home">
+<div class="button">
+
+
+</div>        <header id="banner" class="body">
+<!--                <h1><a href="">LOADays </a></h1> -->
+                <nav><ul>
+                    <li><a href="/">Home</a></li>
+                    <!--<li><a href="/">Home</a></li> -->
+                    <li><a href="/pages/venue.html">Venue</a></li>
+                    <!--<li><a href="/pages/venue.html">Venue</a></li> -->
+                    <li><a href="https://cfp.loadays.org/2019/cfp">CfP</a></li>
+                    <!--<li><a href="https://cfp.loadays.org/2019/cfp">CfP</a></li> -->
+                    <li><a href="/pages/social.html">Social</a></li>
+                    <!--<li><a href="/pages/social.html">Social</a></li> -->
+                    <li><a href="/pages/faq.html">FAQ</a></li>
+                    <!--<li><a href="/pages/faq.html">FAQ</a></li> -->
+                    <li><a href="/pages/sponsors.html">Sponsors</a></li>
+                    <!--<li><a href="/pages/sponsors.html">Sponsors</a></li> -->
+                    <li><a href="/pages/code-of-behaviour.html">CoB</a></li>
+                    <!--<li><a href="/pages/code-of-behaviour.html">CoB</a></li> -->
+                <!--                    <li ><a href="/category/posts.html">posts</a></li>
+ no category in navigation --> 
+                </ul></nav>
+        </header><!-- /#banner -->
+        
+	<div id="container">
+<div class="sponsors">
+
+    <h2> Gold Sponsors</h2>
+    <div class="sponsors-gold">
+        <ul>
+            <li><a href="http://www.donboscowilrijk.be/"><img src="/images/logo_don_bosco.png" alt="Don Bosco Wilrijk"></a></li>
+            <li><a href="http://www.inuits.eu/"><img src="/images/logo_inuits.png" alt="Inuits"></a></li>
+            <li><a href="http://www.vantosh.com/"><img src="/images/logo_vantosh.png" alt="VanTosh"></a></li>
+        </ul>
+    </div><!-- /.sponsors-gold -->
+
+
+    <h2>Bronze Sponsors</h2>
+    <div class="sponsors-bronze">
+        <ul>
+            <li><a href=""><img src="/images/logo_itpartners.png" alt="IT Partners"></a></li>
+        </ul>
+    </div><!-- /.sponsors-bronze -->
+
+</div>        
+<div id="container">
+<section id="content" class="body">    
+    <h1 class="entry-title">Troubleshooting Network Services (Bert Van Vreckem)</h1>
+    <h2>Troubleshooting Network Services (Bert Van Vreckem)</h2>
+<p>This workshop introduces basic troubleshooting skills for setting up network services (e.g. web, database, fileserver, DHCP, DNS, etc.) on Linux. The TCP/IP protocol stack forms the scaffolding, each layer from bottom to top being a consecutive phase in the process. At each level, the most important items to check are discussed, along with the most suitable commands for modern Linux distributions (specifically, <code>systemd</code>-based ones).<br>
+In the workshop, we'll work with CentOS 7, but the underlying principles can be applied to any Linux distribution, or even any operating system in general.<br>
+Topics that will be discussed:</p>
+<ul>
+<li>General guidelines</li>
+<li>Checks for each TCP/IP layer:<ul>
+<li>Link/network access layer (network adapter settings)</li>
+<li>Internet layer (IP address, gateway, DNS settings, routing within the LAN)</li>
+<li>Transport layer (service status, server sockets, firewall settings)</li>
+<li>Application layer (logs, configuration files)</li>
+</ul>
+</li>
+<li>SELinux troubleshooting</li>
+<li>If time permits, and depending on the preference of the participants, some application specific troubleshooting tips for:<ul>
+<li>Samba</li>
+<li>BIND</li>
+<li><code>dhcpd</code></li>
+</ul>
+</li>
+</ul>
+<p>During the session, participants will troubleshoot a badly configured web server on CentOS 7.</p>
+<h4>Requirement</h4>
+<p>Participants need to bring a laptop (with the OS of <em>their</em> choice) with the following software installed:</p>
+<ul>
+<li>Git client</li>
+<li>VirtualBox</li>
+<li>Vagrant</li>
+</ul>
+<p>Participants are expected to have basic knowledge about:</p>
+<ul>
+<li>The TCP/IP protocol stack</li>
+<li>Basic Linux command line skills</li>
+<li>Linux file permissions</li>
+</ul>
+<h4>Preperation</h4>
+<p>It's important to do the following steps <em>before</em> the conference, as it involves downloading large files.</p>
+<ol>
+<li>Ensure the <strong>software</strong> listed above is installed on your system.</li>
+<li>Check your <strong>VirtualBox settings</strong>:<ul>
+<li>Ensure the <em>Extension Pack</em> is installed</li>
+<li>Ensure you have a <em>Host Only network</em> configured with the following settings:<ul>
+<li>On recent VirtualBox versions, go to Global Tools &gt; Host Network Manager</li>
+<li>On older versions, go to File &gt; Preferences &gt; Network &gt; Host Only networks</li>
+<li>You should have at least one Host-Only network, with following settings:<ul>
+<li>IPv4 Address: 192.168.56.1</li>
+<li>Network Mask: 255.255.255.0</li>
+<li>DHCP server (optional): 192.168.56.100</li>
+<li>Lower address bound: 192.168.56.101</li>
+<li>Upper address bound: 192.168.56.254</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Clone the <strong>repository</strong> with slides &amp; demo/assignment code</p>
+<p><code>shell
+$ git clone https://github.com/bertvv/presentation-network-troubleshooting.git</code></p>
+</li>
+<li>
+<p>Ensure you have the Vagrant base box used in the session installed (~520MB download):</p>
+<p><code>shell
+$ vagrant box add --provider virtualbox bento/centos-7.4</code></p>
+</li>
+</ol>
+<p>Do not hesitate to contact the speaker if you run into problems.</p>
+<h4>Additional Information</h4>
+<ul>
+<li>Slides and code: <a href="https://github.com/bertvv/presentation-network-troubleshooting">https://github.com/bertvv/presentation-network-troubleshooting</a></li>
+<li>Linux Network Troubleshooting guide: <a href="https://bertvv.github.io/linux-network-troubleshooting/">https://bertvv.github.io/linux-network-troubleshooting/</a></li>
+</ul>
+<h2>Bert Van Vreckem</h2>
+<p>Bert is lecturer ICT at <a href="https://hogent.be/fbo">University College Ghent</a> and <a href="http://www.avondschool.be/">CVO Panta Rhei</a>, where he teaches a.o. Linux, System Engineering project, Research Techniques, etc.</p>
+<p>His open source contributions include a.o.</p>
+<ul>
+<li>Ansible roles for network services, focus on EL7 (e.g. Apache, BIND, dhcpd, PXEBoot server, Vsftpd, Samba, etc)</li>
+<li>Scripts &amp; tools for managing Vagrant &amp; Ansible</li>
+<li>Learning materials (e.g. cheat sheets and checklists, syllabus Enterprise Linux, assignments, etc.)</li>
+</ul>
+<p>Github : <a href="https://github.com/bertvv/">https://github.com/bertvv/</a> and <a href="https://github.com/hogenttin">https://github.com/hogenttin</a></p>
+<p>Twitter : <a href="http://twitter.com/bertvanvreckem">@bertvanvreckem</a></p>
+</section>
+</div>
+<div id="sponsors"></div>
+	</div>
+ 	
+        <section id="extras" class="body">
+        </section><!-- /#extras -->
+
+
+        <footer id="contentinfo" class="body">
+                    All logos are used with permission of their respective owner(s).
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
